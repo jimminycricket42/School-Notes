@@ -1,12 +1,14 @@
 {
-  "accentColor": "#1c5ee3",
+  "accentColor": "#df01ef",
   "enabledCssSnippets": [
     "colourfulIText",
-    "SubtleLinks"
+    "SubtleLinks",
+    "smoothCursor"
   ],
-  "cssTheme": "🔔 Chime",
+  "cssTheme": "Material Flat",
   "baseFontSize": 17,
   "theme": "obsidian",
   "baseFontSizeAction": false,
-  "translucency": false
+  "translucency": false,
+  "showViewHeader": true
 }

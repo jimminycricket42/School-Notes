@@ -1,10 +1,10 @@
 ---
-aliases: [ ]
+aliases: [Pathogens, ]
 tags: [GR11/Q1 Ecology/organisms/microorganisms]
 created: Thu 26/01 2023
 ---
 # Microorganisms
-Microorganisms are a [[classification]] of organisms that cannot be seen with the naked eye. They are abundant on earth, and can be found almost everywhere.  ^blurb
+Microorganisms are a [[classification]] of organisms that cannot be seen with the naked eye. They are abundant on earth, and can be found almost everywhere. Many of them barely affect us, but those that do are known as *pathogens*. ^blurb
 
 > [!note]+ :spiral_notepad: Are Microorganisms harmful to Humans and Animals?
 > Most microorganisms have no effect on animals, in fact there are some that we need to survive. However, bad organisms do exist, and they are known as [[pathogens]]. All [[viruses]] are pathogenic, as well as some [[bacteria]], [[protists]], and [[fungi]]. They are symbiotic, and cause *infectious diseases*.

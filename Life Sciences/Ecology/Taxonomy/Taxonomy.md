@@ -26,9 +26,9 @@ There are seven levels of classification commonly used:
 The kingdom is the largest and vaguest classification. The organisms often share few characteristics, but that combination of those characteristics are unique to that organism. 
 
 The kingdoms are:
-- Monera
-- Protista
-- Fungi
+- [[Bacteria|Monera]]
+- [[Protista]]
+- [[Fungi]]
 - Plantae
 - Animalia
 

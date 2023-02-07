@@ -1,5 +1,5 @@
 ---
-aliases: [taxonomy ]
+aliases: [ ]
 tags: [GR10/Q4 Ecology/organisation ]
 created: Fri 04/11 2022
 modified: Fri 04/11 2022
@@ -29,7 +29,9 @@ Tissues are made up of cells that serve common functions. The [[Mammalian Tissue
 Organs are groups of cells that look similar to eachother and that serve similar functions.
 
 ## Organisms
-Organisms are the smallest classification, and are made up of individual living beings. 
+Organisms are the smallest classification that are made up of individual living beings. They consist of many types of creatures, for which the [[Taxonomy|taxonomic system]] was created to categorize them. 
+
+Organisms themselves have more clasifications, such as [[Heterotrophs]] and [[Autotrophs]], as well as [[Microorganisms]].
 
 ## Populations 
 Populations are groups of the same organism found in an area. 
