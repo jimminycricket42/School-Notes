@@ -1,11 +1,11 @@
 
 ---
-aliases: [Exponents ]
+aliases: [surds ]
 tags: [GR10/Q4 maths/algebra GR11/Q1 ]
 created: Thu 19/01 2023
 ---
-# Exponential Laws
-Powers work differently than other numbers. To ensure the correct outcome of calculations involving powers, the exponential laws were created. ^blurb
+# Exponents
+Powers work differently than other numbers. To ensure the correct outcome of calculations involving powers, the exponential laws were created. Exponents can also be used to describe many different types of numbers, such as surds, whole numbers, and fractions. ^blurb
 
 ![[Representation of Powers.jpeg]]
 
@@ -13,9 +13,9 @@ The cases that the laws apply to are:
 - The addition and subtraction of powers
 - The multiplication and division of powers
 - The power of 0
-- Exponents applying to brackets with one term
-- Exponents applying to brackets with multiple terms
-- Exponents applying to brackets containing powers
+- Powers applying to brackets
+	- Powers applying to brackets with one term
+	- Powers applying to brackets with multiple terms
 
 
 ## The addition and subtraction of exponents
@@ -42,7 +42,8 @@ $$
 n^0 = 1
 $$
 
-## Powers applying to brackets with one term
+## Powers Applying to Brackets
+### Powers applying to brackets with one term
 Law: Powers applied to brackets will multiply all powers within the bracket
 
 $$
@@ -51,7 +52,7 @@ $$
 
 $$ (a^b)^c = a^{bc} $$
 
-## Powers applying to brackets with multiple terms
+### Powers applying to brackets with multiple terms
 Law: Powers applied to brackets with multiple terms will multiply the entire bracket by itself as many times as the power states. 
 
 This can be simplified with methods such as [[Pascal's Triangle]] or [[FOIL]].
