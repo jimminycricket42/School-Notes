@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "3a4a9fd06022c3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "326b09abbc24a8f6",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "326b09abbc24a8f6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Personal/Style Tester.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Style Tester.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90fd24611c3cf2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ce0f1e5b14669f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b580ef66bbc80f37",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "629751c8bf16de63",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "18501c51c84a834d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "5a193c6156722c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ff2c53acea43a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e900cc14fdc4ad73",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "00b409727198e697",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2deffd887983fd3d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ba61a9f0e05bf95",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "floating": {
+    "id": "8aac9d0c0dd5a3ea",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0cf1037873168faa",
+        "type": "window",
+        "children": [
+          {
+            "id": "9646ff68dcee4529",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "9646ff68dcee4529",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"To Do.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":413,\"ch\":31},\"to\":{\"line\":413,\"ch\":31}},\"scroll\":392.3792613636364}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 1281,
+        "y": 36,
+        "width": 449,
+        "height": 986,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "0280a20390447615",
+        "type": "window",
+        "children": [
+          {
+            "id": "ed799f066759f014",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "leaf": "ed799f066759f014",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Physical Sciences/Magnetism and Electricity/Electrical Current (I).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":19},\"to\":{\"line\":26,\"ch\":19}},\"scroll\":13.926123281363068}"
+                },
+                {
+                  "leaf": "ed799f066759f014",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{},\"pinned\":true}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ed799f066759f014",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Life Sciences/Ecology/Nutrient Flows/The Nitrogen Cycle.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":20.4088124630741}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 946,
+        "y": 270,
+        "width": 600,
+        "height": 692,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ed799f066759f014",
+  "lastOpenFiles": [
+    "Personal/Style Tester.md",
+    "Physical Sciences/Physics/Waves/Transverse Waves.md",
+    "Physical Sciences/Physics/Waves/Types of Waves.md",
+    "Physical Sciences/Physics/Waves/Wavelength (λ).md",
+    "Physical Sciences/Physics/Waves/Waves in phase.md",
+    "Personal/Templates/Definition Template.md",
+    "To Do.md",
+    "Physical Sciences/Physics/Waves/The Electromagnetic Spectrum.md",
+    "Mathematics/Factorisation.md",
+    "English/Language/Essay Writing.md"
+  ]
+}

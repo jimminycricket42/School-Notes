@@ -1,0 +1,40 @@
+{
+  "spellcheck": true,
+  "tabSize": 2,
+  "promptDelete": false,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "newFileLocation": "current",
+  "strictLineBreaks": true,
+  "fileSortOrder": "alphabetical",
+  "spellcheckLanguages": [
+    "en-GB-oxendict",
+    "en-GB",
+    "en-US"
+  ],
+  "readableLineLength": true,
+  "lineWrap": true,
+  "attachmentFolderPath": "./Attachments",
+  "communityThemeSortOrder": "download",
+  "foldIndent": true,
+  "communityPluginSortOrder": "alphabetical",
+  "autoPairBrackets": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "spellcheckDictionary": [
+    "uns",
+    "Acellular",
+    "acellular"
+  ]
+}

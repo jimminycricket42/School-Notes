@@ -1,0 +1,16 @@
+{
+  "dateFormat": "E dd/MM Y HH:mm",
+  "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
+  "useDifferentReadFormat": false,
+  "enableCreateTime": true,
+  "headerUpdated": "modified",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 5,
+  "ignoreGlobalFolder": [
+    "Personal/Templates",
+    ""
+  ],
+  "ignoreCreatedFolder": [
+    "Personal"
+  ]
+}

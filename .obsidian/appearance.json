@@ -1,0 +1,12 @@
+{
+  "accentColor": "#1c5ee3",
+  "enabledCssSnippets": [
+    "colourfulIText",
+    "SubtleLinks"
+  ],
+  "cssTheme": "🔔 Chime",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "translucency": false
+}

@@ -1,0 +1,22 @@
+{
+  "delay": 200,
+  "key": "Shift",
+  "shortcuts": [
+    {
+      "command": "switcher:open",
+      "key": "Shift",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "command-palette:open",
+      "key": "Control",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "insert-template",
+      "key": "Insert",
+      "lastKeyUpTime": 0
+    }
+  ],
+  "command": "command-palette:open"
+}

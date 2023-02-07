@@ -1,0 +1,6 @@
+.markdown-embed-title {display:inline;  color:#2e3538; text-align:left; border-bottom:solid; border-color:#e5e7ea;}
+.markdown-preview-view .markdown-embed { border-top:solid; border-bottom:solid; padding-left:1em; paddding-right:1em; padding-bottom:0,5em; padding-top:0,5em; margin:01em; color:#e5e7ea}
+.markdown-preview-view .markdown-embed-content { max-height: unset;}
+.markdown-preview-view .markdown-embed-content>:first-child { margin-top: 2; }
+.markdown-preview-view .markdown-embed-content>:last-child { margin-bottom: 3; }
+.markdown-preview-view .markdown-embed:hover {border-top:solid; border-bottom:solid; padding-left:1em; paddding-right:1em; padding-bottom:0,5em; padding-top:0,5em; margin:01em; color:#d4dee6}
