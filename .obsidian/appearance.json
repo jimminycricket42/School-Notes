@@ -1,0 +1,14 @@
+{
+  "accentColor": "#df01ef",
+  "enabledCssSnippets": [
+    "colourfulIText",
+    "SubtleLinks",
+    "smoothCursor"
+  ],
+  "cssTheme": "Material Flat",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "showViewHeader": true
+}

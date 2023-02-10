@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".resources/obsidian-icons",
+    "fontSize": 14,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasListCheck",
+      "FasChartColumn",
+      "FasArrowsLeftRight",
+      "FasWhiskeyGlass",
+      "FasAnglesRight",
+      "FasTableCells",
+      "FasTimeline",
+      "FasAtom",
+      "FasCarBattery",
+      "FasCarSide"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [
+      {
+        "rule": "/*/Attatchments",
+        "icon": "FasClipboardList",
+        "for": "folders"
+      }
+    ],
+    "extraMargin": {
+      "top": 1,
+      "right": 5,
+      "bottom": 1,
+      "left": 0
+    },
+    "emojiStyle": "none"
+  },
+  "Life Sciences": "FasPerson",
+  "Mathematics": "FasPlusMinus",
+  "Information Technology": "FasComputerMouse",
+  "Geography": "FasGlobe",
+  "English": "FasMasksTheater",
+  "Afrikaans": "FasEarthAfrica",
+  "Physical Sciences": "FasGear",
+  "Personal": "FasPersonWalkingWithCane",
+  "General Terminology": "FasBookOpen",
+  "Geography/Climatology/Attachments": "FasLink",
+  "Physical Sciences/Attachments": "FasClipboardList",
+  "Life Sciences/The Cell/Attachments": "FasClipboardList",
+  "Geography/Geology/Attachments": "FasLink",
+  "Physical Sciences/Chemistry": "FasVial",
+  "Physical Sciences/Physics": "FasScaleUnbalancedFlip",
+  "Engineering Graphics and Design": "FasPenRuler",
+  "Information Technology/Attachments": "FasClipboard",
+  "Physical Sciences/Magnetism and Electricity": "FasBolt",
+  "Physical Sciences/Magnetism and Electricity/Attachments": "FasClipboardList",
+  "Physical Sciences/Physics/Attachments": "FasClipboardList",
+  "Life Sciences/The Human Body/The Circulatory System/Attatchments": "FasClipboardList",
+  "Life Sciences/The Human Body/The Respiratory System/Attachments": "FasClipboardList",
+  "Physical Sciences/Chemistry/Attachments": "FasClipboardList",
+  "Physical Sciences/Magnetism and Electricity/Electrical Circuits": "FasPlug",
+  "Physical Sciences/Physics/Waves": "FasFileWaveform",
+  "Physical Sciences/Physics/Motion": "FasCarSide",
+  "Physical Sciences/Physics/Energy": "FasCarBattery",
+  "Physical Sciences/Chemistry/Atom Theory": "FasAtom",
+  "Physical Sciences/Chemistry/Bonding": "FasTimeline",
+  "Physical Sciences/Chemistry/Periodicity": "FasChartColumn",
+  "Physical Sciences/Chemistry/Quantative Aspects of Chemistry": "FasArrowsLeftRight",
+  "Physical Sciences/Chemistry/Reactions in Aqueous Solutions": "FasWhiskeyGlass",
+  "Life Sciences/Todo - Life Sciences.md": "FasListCheck",
+  "Information Technology/Todo - ITJ.md": "FasListCheck",
+  "Physical Sciences/Physical Sciences To-Do.md": "FasListCheck",
+  "-ToDo.md": "FasCheck"
+}

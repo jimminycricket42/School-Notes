@@ -1,0 +1,3 @@
+> [!example]+ :bulb: Example
+> 
+> content

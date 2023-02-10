@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#GR11",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 16740576
+      }
+    },
+    {
+      "query": "path:\"Life Sciences\"",
+      "color": {
+        "a": 1,
+        "rgb": 9568455
+      }
+    },
+    {
+      "query": "path:Geography",
+      "color": {
+        "a": 1,
+        "rgb": 2793506
+      }
+    },
+    {
+      "query": "path:\"Physical Sciences\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 2574542
+      }
+    },
+    {
+      "query": "path:\"Information Technology\"",
+      "color": {
+        "a": 1,
+        "rgb": 4366079
+      }
+    },
+    {
+      "query": "path:Afrikaans",
+      "color": {
+        "a": 1,
+        "rgb": 16084480
+      }
+    },
+    {
+      "query": "path:Personal/Templates",
+      "color": {
+        "a": 1,
+        "rgb": 16448250
+      }
+    },
+    {
+      "query": "path:Personal",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.96302083333333,
+  "lineSizeMultiplier": 0.7125,
+  "collapse-forces": true,
+  "centerStrength": 0.356770833333333,
+  "repelStrength": 11.5104166666667,
+  "linkStrength": 1,
+  "linkDistance": 249,
+  "scale": 0.5388603890468396,
+  "close": false
+}

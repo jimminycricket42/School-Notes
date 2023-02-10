@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "3a4a9fd06022c3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "765edcb0865f3cae",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life Sciences/Digestion/The Stomach.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "b83a2ff3d6be2589",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Life Sciences/Digestion/The Mouth.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90fd24611c3cf2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ce0f1e5b14669f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b580ef66bbc80f37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "629751c8bf16de63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#the-body/systems",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e910fcbe1be5748e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d66178268443533",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "5a193c6156722c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ff2c53acea43a1",
+        "type": "tabs",
+        "dimension": 31.79190751445087,
+        "children": [
+          {
+            "id": "2e04eef25c0440da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Life Sciences/Digestion/The Mouth.md"
+              }
+            }
+          },
+          {
+            "id": "6a4f0f954f2534db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "803978fd9a0778e3",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b1cfd27ba8ddc7e7",
+        "type": "tabs",
+        "dimension": 68.20809248554913,
+        "children": [
+          {
+            "id": "00b409727198e697",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2deffd887983fd3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Life Sciences/Digestion/The Mouth.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7399ec5d1863dc72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life Sciences/Digestion/The Mouth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "active": "b83a2ff3d6be2589",
+  "lastOpenFiles": [
+    "Life Sciences/Digestion/The Mouth.md",
+    "Life Sciences/Digestion/The Stomach.md",
+    "Life Sciences/Digestion/The Oesophagus.md",
+    "Life Sciences/Digestion/The Digestive System.md",
+    "Life Sciences/Digestion/The digestive tract.md",
+    "Life Sciences/Respiration and Breathing/Structure of the Thoracic Cavity.md",
+    "Life Sciences/Respiration and Breathing/Images/Thoracic Cavity.png",
+    "Untitled.md",
+    "To Do.md",
+    "Geography/Natural Disasters/nme.md"
+  ]
+}

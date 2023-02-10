@@ -1,0 +1,8 @@
+{
+  "version": "0.6.3",
+  "cache": {
+    "enabled": true,
+    "location": "Memory",
+    "directory": "C:\\Users\\jimmi\\OneDrive\\Documents\\School-Notes\\.resources\\desmosCache"
+  }
+}
