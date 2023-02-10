@@ -32,4 +32,4 @@ Protists are uni- or multi-cellular. They have many different structures that ca
 
 Algae have chloroplasts and can photosynthesise. Their cell wall consists of cellulose, except in diatoms where it consists of silica. 
 
-Protozoa ingest their food through [[phagocytosis]]. They do not have cell walls. 
+Protozoa ingest their food through [[Phagocytes|phagocytosis]]. They do not have cell walls. 
