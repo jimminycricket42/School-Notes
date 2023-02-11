@@ -8,11 +8,13 @@ modified: Thu 03/11 2022 08:00
 Blood is a *circulatory tissue* that contains *plasma* with cells suspended in it. This plasma is non-living, and forms the matrix of blood. Blood can be broken into Erythrocytes and Leukocytes (commonly known as red and white blood cells), as well as Thrombocytes (known as platelets). 
 
 
-> [!tip]- :star_struck: Blood Is a homogeneous solution
+
+> [!tip]- :star_struck: Blood Is a heterogeneous solution
 > 
 > Despite blood looking like a homogeneous solution, it is actually a heterogenous solution
 
 ![[Blood.png]]
+![[Blood Cell Types.png]]
 
 ## Plasma
 The plasma contains cells, water, dissolved substances, colloids, and particles in suspension. The plasma is responsible for transporting these substances around the body. It also helps keep the body's temperature constant. 
