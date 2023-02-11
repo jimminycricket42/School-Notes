@@ -46,7 +46,7 @@
       "query": "path:\"Information Technology\"",
       "color": {
         "a": 1,
-        "rgb": 4366079
+        "rgb": 2752468
       }
     },
     {
@@ -71,16 +71,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.9,
   "nodeSizeMultiplier": 1.45260416666667,
   "lineSizeMultiplier": 0.457291666666667,
   "collapse-forces": false,
-  "centerStrength": 0.265625,
-  "repelStrength": 9.6875,
-  "linkStrength": 0.552083333333333,
+  "centerStrength": 0.536458333333333,
+  "repelStrength": 9.27083333333333,
+  "linkStrength": 0.875,
   "linkDistance": 30,
-  "scale": 0.1840070334969471,
+  "scale": 0.18400703349694664,
   "close": false
 }

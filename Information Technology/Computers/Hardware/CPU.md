@@ -1,6 +1,6 @@
 ---
 aliases: [ Central Processing Unit, ]
-tags: [GR11/Q1]
+tags: [GR11/Q1 computers/hardware ]
 created: Sat 11/02 2023
 ---
 # Central Processing Unit
@@ -32,7 +32,7 @@ It can only add numbers, and performs other operations only using addition. To s
 
 Logic gates run [[Logical Operators]] and determine if they are true or false. 
 
-Once something has been processed in the ALU it will be sent to memory for storage. To do this, the instruction processed is broken down into parts and stored in registers. The accumulator is the specific register meant to store the result of an execution of an instruction. Saved data moves from the accumulator to RAM, and loaded data comes from the RAM into the accumulator.
+Once something has been processed in the ALU it will be sent to memory for storage. To do this, the instruction processed is broken down into parts and stored in registers. The accumulator is the specific register meant to store the result of an execution of an instruction. Saved data moves from the accumulator to [[RAM]], and loaded data comes from the [[RAM]] into the accumulator.
 
 ```mermaid
 flowchart TD
@@ -91,3 +91,21 @@ end
 ```
 
 You can combine multiprocessing and hyperthreading to increase the total number of logical cores, without increasing the needed amount of physical cores on the device. 
+
+## Processor Cache
+Processor cache allows small bits of data to be stored near the processor, allowing it to store commands in an easy-to-access manner. This helps prevent downtime on the CPU, and accelerates processes that require large amounts of data. 
+
+Cache is made up of [[RAM|SRAM]] (Static RAM). Which has faster access rates than [[RAM|DRAM]] (Dynamic RAM). 
+
+Most computers have multiple levels of cache. This is referred to as L1 and L2 cache. L1 cache is a very small amount of memory that exists on the processor. It will run at the same speed as the CPU. L2 cache runs slower, but has a higher capacity. It is often slightly further from the CPU than the L1 cache. Many motherboards will also have an L3 cache that exists on the board itself. It is again larger and slower that L2 or L1 cache. 
+
+The CPU checks far commands and data in the order of L1 → L2 → L3 → RAM. Sometimes L3 does not store the next set of instructions, but rather a copy of common instructions during multithreading. This is determined by the CPU design.
+
+| Property / Type of cache | L1                   | L2             | L3                              |
+| ------------------------ | -------------------- | -------------- | ------------------------------- |
+| Speed                    | Fastest              | Fast           | Slower                          |
+| Size                     | Smallest             | Larger         | Largest (Smaller than RAM)      |
+| Distance To CPU          | In the CPU circuitry | On the CPU dye | On the motherboard near the CPU |
+| Hit priority             | First                | Second         | Third                           |
+
+Cache in any form is memory that stores data to speed up further requests. When data is found in a cache, it is known as a cache hit. When data is not found, it is known as a cache miss.
