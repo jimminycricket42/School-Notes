@@ -7,16 +7,16 @@ created: Thu 26/01 2023
 Microorganisms are a [[classification]] of organisms that cannot be seen with the naked eye. They are abundant on earth, and can be found almost everywhere. Many of them barely affect us, but those that do are known as *pathogens*. ^blurb
 
 > [!note]+ :spiral_notepad: Are Microorganisms harmful to Humans and Animals?
-> Most microorganisms have no effect on animals, in fact there are some that we need to survive. However, bad organisms do exist, and they are known as [[pathogens]]. All [[viruses]] are pathogenic, as well as some [[bacteria]], [[Protista]], and [[fungi]]. They are symbiotic, and cause *infectious diseases*.
+> Most microorganisms have no effect on animals, in fact there are some that we need to survive. However, bad microorganisms do exist, and they are known as *pathogens*. All [[viruses]] are pathogenic, as well as some [[bacteria]], [[Protista]], and [[fungi]]. They are symbiotic, and cause *infectious diseases*.
 
 ## Classifications of Microorganisms
 In order of size:
-[[Viruses]] → [[Bacteria]] → Protists → Fungi 
+[[Viruses]] → [[Bacteria]] → [[Protista]] → [[Fungi]] 
 
-[[Viruses]] are non-living, and [[bacteria]] protists and fungi are all living. 
+[[Viruses]] are non-living, while [[bacteria]], protista, and fungi are all living. ^[[[Characteristics of Life]]]
 
 ### Cell Structure
-We can classify microorganisms by their cell structure, namely if they are prokaryotic or eukaryotic. 
+We can classify microorganisms by their cell structure, namely if they are [[Classification of Cell Structure|prokaryotes]] or [[Classification of Cell Structure|eukaryotes]]. 
 - [[Viruses]] are Acellular, and are therefore neither prokaryotic nor eukaryotic. 
 - [[Bacteria]] are prokaryotic, because they don’t have a true [[nucleus]] nor a nuclear membrane, and membrane-bound organelles are absent. They are also unicellular. 
 - Protista and Fungi are eukaryotic, as they have true nuclei, nuclear membranes, and they have membrane-bound organelles. 
