@@ -1,5 +1,5 @@
 ---
-aliases: [ADSL, Fibre ]
+aliases: [ADSL, Fibre, WiFi, Bluetooth ]
 tags: [GR10/Q4 computers/connectivity computers/networks ]
 created: Fri 18/11 2022
 ---

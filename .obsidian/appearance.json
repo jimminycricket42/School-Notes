@@ -5,9 +5,9 @@
     "SubtleLinks",
     "smoothCursor"
   ],
-  "cssTheme": "🔔 Chime",
+  "cssTheme": "Jotter",
   "baseFontSize": 17,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSizeAction": false,
   "translucency": false,
   "showViewHeader": true

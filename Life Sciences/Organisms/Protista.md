@@ -7,7 +7,7 @@ created: Mon 06/02 2023
 Protista are a combination of unicellular organisms that do not fall into other kingdoms. They have great diversity, with many forms and common types of organisms. ^blurb
 
 ## General Characteristics of Protista
-Protista are [[Classification of Cells|eukaryotes]], and are uni- or multi-cellular. They often have primitive levels of cell specialisation, and occur in almost all locations where water occurs. Most protists are aquatic. 
+Protista are [[Classification of Cell Structure|eukaryotes]], and are uni- or multi-cellular. They often have primitive levels of cell specialisation, and occur in almost all locations where water occurs. Most protists are aquatic. 
 
 ### Reproduction
 Protists often reproduce through binary fission, but some have been recorded to reproduce sexually. 

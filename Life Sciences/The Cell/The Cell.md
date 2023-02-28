@@ -1,5 +1,5 @@
 ---
-aliases: [Cells ]
+aliases: [Cells, organelles ]
 tags: [GR10/Q1 biochemistry/organic-cells/organelles biochemistry/organic-cells/plant-cells biochemistry/organic-cells/animal-cells biochemistry/organic-cells/organelles ]
 created: Fri 04/11 2022
 modified: Thu 03/11 2022 08:00

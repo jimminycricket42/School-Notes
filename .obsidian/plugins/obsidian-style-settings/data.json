@@ -68,7 +68,7 @@
   "chime-theme@@ultra-focus": false,
   "chime-theme@@line-style": "line-style-dotted",
   "chime-theme@@tag-style": "tag-button",
-  "title@@hide-toolbar-desktop": true,
+  "title@@hide-toolbar-desktop": false,
   "title@@more-drag-desktop": true,
   "title@@vibrant": false,
   "title@@dim-light-mode": false,
@@ -86,5 +86,15 @@
   "chime-theme@@smaller-headings": false,
   "chime-theme@@h1-center": true,
   "chime-theme@@h1-bottom-border": true,
-  "chime-theme@@underlined-highlight": false
+  "chime-theme@@underlined-highlight": false,
+  "title@@disable-tooltip-animation": false,
+  "minimal-style@@window-title-off": false,
+  "jotter@@wrap-titles": true,
+  "jotter@@border_style": "border-invisible",
+  "jotter@@color-scheme": "ct-explorer",
+  "jotter@@predefined-accent-colors": "accent-vermilion",
+  "jotter@@h2-underline": true,
+  "jotter@@em-color": "#DF6DEE",
+  "jotter@@bold-underline-color": "#727272",
+  "jotter@@bold-underline": false
 }
