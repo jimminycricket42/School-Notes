@@ -1,7 +1,7 @@
 ---
 date: [Sun 15/05 2022]
 aliases: []
-tags: [GR10/Q2 atom-theory/periodicity terminology ]
+tags: [GR10/Q2 atom-theory terminology ]
 modified: Thu 03/11 2022 08:00
 ---
 # Electronegativity

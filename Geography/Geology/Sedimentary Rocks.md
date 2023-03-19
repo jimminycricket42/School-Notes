@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Sedimentary Rocks
-#GR10/Q2 #geology/types-of-rocks #geology/land-formations
+#GR10/Q2 #geology #geology
 Sedimentary rocks are made up of layers of [[erosion|sediments]] that have been *compacted* and *cemented* to form *strata* (meaning layers). 
 
 ## Formation of Sedimentary Rocks

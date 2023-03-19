@@ -3,5 +3,8 @@
   "suggester": true,
   "historyPriority": true,
   "historyLimit": 100,
-  "history": []
+  "history": [
+    ":male_sign:",
+    ":female_sign:"
+  ]
 }

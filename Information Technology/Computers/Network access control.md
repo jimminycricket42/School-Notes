@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 computers/networks ]
+tags: [GR10/Q4 computers/connectivity ]
 created: Fri 18/11 2022
 ---
 # Network access control

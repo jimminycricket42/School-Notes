@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Character Analysis
-#GR9 #reading/analysis 
+#GR9 #poems-and-prose/analysis 
 
 A character is defined as a person in a novel, play, or film. We look at what is being said, and why is it being said. We want to determine the authors purpose, and outline the characters actions.
 

@@ -16,8 +16,22 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "f6c5beadfdfc4485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Technology/Computers/Hardware/CPU.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Information Technology/Computers/Hardware/CPU.md"
+              }
             }
           },
           {
@@ -110,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Information Technology/Computers/Hardware/CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,45 +158,36 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "b580ef66bbc80f37",
+  "active": "f6c5beadfdfc4485",
   "lastOpenFiles": [
-    "Information Technology/Code/OOP Object Orientated Programming.md",
-    "EGD/Attachments/Through Hole Section.png",
-    "EGD/Attachments/Through Hole Convention.png",
-    "EGD/Attachments/Tapped Hole Section.png",
-    "EGD/Attachments/Tapped Hole Convention.png",
-    "EGD/Attachments/Blind Hole Convention.png",
-    "EGD/Types of Holes.md",
-    "EGD/Attachments",
-    "EGD",
-    "Physical Sciences/Physics/Waves/Wavelength (++).md",
-    "Physical Sciences/Physics/Newtons Third Law.md",
-    "Personal/Templates/Note Callout.md",
-    "Personal/Templates/Flow Chart.md",
-    "Personal/Templates/Extra Callout.md",
-    "Personal/Templates/Example Template.md",
-    "Life Sciences/The Human Body/The Immune System/Attachments/Types of immunity chart.png",
-    "Life Sciences/Plants/Plant Classifications.md",
-    "Life Sciences/Organisms/Viruses.md",
-    "Life Sciences/Organisms/Protista.md",
-    "Life Sciences/Organisms/Microorganisms.md",
-    "Life Sciences/Organisms/Fungi.md",
-    "Life Sciences/Organisms/Bacteria.md",
-    "Life Sciences/Ecology/Taxonomy/Taxonomy.md",
-    "Life Sciences/Ecology/Taxonomy/Dichotomous Keys.md",
-    "Life Sciences/Ecology/Taxonomy/Classification.md",
-    "Life Sciences/Ecology/Taxonomy/Classification of Cells.md",
-    "Life Sciences/Ecology/Taxonomy/Biodiversity.md",
-    "Life Sciences/Ecology/Taxonomy",
-    "Life Sciences/Biological Organization.md",
-    "Information Technology/Computers/Communication Media.md",
+    "Information Technology/Computers/Hardware/RAM.md",
     "Physical Sciences/Physics/Waves/Wavelength (λ).md",
     "Physical Sciences/Physics/Motion/Newton's Laws/Newtons Third Law.md",
     "Physical Sciences/Physics/Motion/Newton's Laws/Newton's Second Law.md",
     "Physical Sciences/Physics/Motion/Newton's Laws/Newton's First Law.md",
     "Physical Sciences/Physics/Motion/Newton's Laws/Mass.md",
     "Physical Sciences/Physics/Motion/Newton's Laws",
+    "Personal/Templates/IT Flow Chart.md",
+    "Mathematics/Trigonometric Identities.md",
+    "Mathematics/Functions.md",
+    "Life Sciences/Reproduction.md",
+    "Life Sciences/Plants/Reproduction in Plants.md",
+    "Life Sciences/Plants/Pteridophytes.md",
+    "Life Sciences/Plants/Classification of Plants.md",
+    "Life Sciences/Plants/Bryophytes.md",
+    "Life Sciences/Plants/Angiosperms.md",
+    "Life Sciences/Plants/Alteration of Plant Generations.md",
+    "Life Sciences/Organisms/Taxonomy/Taxonomy.md",
+    "Life Sciences/Organisms/Taxonomy/Dichotomous Keys.md",
+    "Life Sciences/Organisms/Taxonomy/Classification.md",
+    "Life Sciences/Organisms/Taxonomy/Classification of Cell Structure.md",
+    "Life Sciences/Organisms/Taxonomy/Biodiversity.md",
     "Life Sciences/Organisms/Taxonomy",
+    "Life Sciences/Organisms/Microorganisms/Viruses.md",
+    "Life Sciences/Organisms/Microorganisms/Protista.md",
+    "Life Sciences/Organisms/Microorganisms/Microorganisms.md",
+    "Life Sciences/Organisms/Microorganisms/Fungi.md",
+    "Life Sciences/Organisms/Microorganisms/Bacteria.md",
     "Life Sciences/Organisms/Microorganisms",
     "Life Sciences/Organisms/Attachments/Rhizopus Diagram.png",
     "Life Sciences/Organisms/Attachments/Human Papiloma Virus.png",
@@ -188,7 +196,16 @@
     "Life Sciences/Organisms/Animalia",
     "Life Sciences/Ecology/Attachments/Prokaryotes Vs Eukaryotes.png",
     "Life Sciences/Diseases",
+    "Information Technology/Computers/Software/Attachments/Pasted image 20230313092922.png",
     "Information Technology/Computers/Software/Attachments",
+    "Information Technology/Computers/Software",
+    "Information Technology/Computers/Hardware",
+    "EGD/PAT 2023.pdf",
+    "EGD/Attachments/Smooth Shank Bolt.png",
+    "EGD/Attachments/SKF 16100 Ball Bearing.png",
+    "EGD/Attachments/Round Groove Pulley.png",
+    "EGD/Attachments/Pulley Wheel Drawing.png",
+    "EGD/Attachments/Pulley Block.png",
     "Life Sciences/The Human Body/The Immune System/Immune System.canvas",
     "Life Sciences/Mammalian Tissues/Untitled.canvas"
   ]

@@ -13,10 +13,10 @@ modified: Thu 03/11 2022 08:00
 **DBMS (DataBase Management System)**: a set of programs to create a database
 
 ### Prefixes
-- tbl – table
-- frm – form
-- qry – query
-- rpt – report
+- **tbl** – table
+- **frm** – form
+- **qry** – query
+- **rpt** – report
 
 ## Purpose of a DBMS
 a DBMS is a set of programs to create a database containing collections of related information organised in a useful manner. 
@@ -28,12 +28,13 @@ A good DBMS should:
 
 ## Database Concepts
 We look at the following parts of a database:
-- Schema – the logical structure of the database
-- Fields – single data items with a type
-- Records – collections of fields, represented as rows in a table
-- Primary key – uniquely identifies a record
-- Tables – collections of records
-- Databases – collection of tables
+- **Schema** – the logical structure of the database
+- **Fields** – single data items with a type
+- **Records** – collections of fields, represented as rows in a table
+- **Primary key** – uniquely identifies a record
+- **Tables** – collections of records
+- **Databases** – collection of tables
+
 ### Schema
 a DBMS has a *schema*, which is a ‘skeleton’ that makes up the *logical structure* of the database. it defines how data should be organised in tables, and how those tables should like to form relationships.
 
@@ -43,14 +44,4 @@ The simplest entity in a database is a *field*. Fields store a *single* data ite
 ### Primary keys
 The *primary key* of a record is a type of field that *uniquely identifies each record* in the table. 
 
-## SQL
-Structured Query Language
-```SQL
-SELECT <field>
-FROM <table>
-ORDER BY <field> DESC /*note: can be ASC or DESC*/
-WHERE <condition>;
-```
-note: the query ends with a ‘;‘
-
-the ‘where’ command can use any comparison, or any [[Logical Operators|Boolean Logic]] operator
+[[SQL]]

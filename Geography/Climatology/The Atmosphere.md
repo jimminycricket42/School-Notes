@@ -1,7 +1,7 @@
 ---
 date: [Thu 19/05 2022]
 aliases: [atmosphere, thermosphere, mesosphere, stratosphere, troposphere,  ]
-tags: [GR10/Q1 climatology/atmosphere/structure climatology/atmosphere/function Ecology/atmosphere ]
+tags: [GR10/Q1 climatology climatology Ecology/atmosphere ]
 modified: Thu 03/11 2022 08:00
 ---
 # The Atmosphere

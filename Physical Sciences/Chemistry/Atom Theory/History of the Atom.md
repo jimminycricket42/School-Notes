@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 07:00
 ---
 # History of the Atom
-#GR10/Q2 #atom-theory/atoms  
+#GR10/Q2 #atom-theory  
 
 ## Pre-Electrons
 ### Hindu Philosophers

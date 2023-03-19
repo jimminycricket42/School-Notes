@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
    # Agenda, Notice and Minutes
-#GR9 #language #language/writing/transactional-writing 
+#GR9 #language #language/writing 
 
 A notice is a simple, short message that informs people of something. You will usually be asked to write a notice that informs people of a meeting taking place
 

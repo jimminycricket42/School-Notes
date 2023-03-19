@@ -68,6 +68,10 @@
   "Information Technology/Todo - ITJ.md": "FasListCheck",
   "Physical Sciences/Physical Sciences To-Do.md": "FasListCheck",
   "-ToDo.md": "FasCheck",
+<<<<<<< HEAD
+=======
+  "Life Sciences/Diseases": "FasHeadSideCough",
+>>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
   "Life Sciences/Ecology": "FasMountain",
   "Life Sciences/History of life on Earth": "FasClockRotateLeft",
   "Life Sciences/Mammalian Tissues": "FasDog",
@@ -76,6 +80,13 @@
   "Life Sciences/Terminology": "FasBookAtlas",
   "Life Sciences/The Cell": "FasBacterium",
   "Life Sciences/The Human Body": "FasUserDoctor",
+<<<<<<< HEAD
   "Information Technology/Code": "LuFile-code",
   "Information Technology/Computers": "LuMonitor"
+=======
+  "Information Technology/Computers/Hardware": "FasMicrochip",
+  "Information Technology/Code": "LuFile-code",
+  "Information Technology/Computers": "LuMonitor",
+  "Information Technology/Computers/Software": "LuOption"
+>>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
 }

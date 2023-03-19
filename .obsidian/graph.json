@@ -73,14 +73,22 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.9,
-  "nodeSizeMultiplier": 1.45260416666667,
-  "lineSizeMultiplier": 0.457291666666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.66953125,
+  "lineSizeMultiplier": 1.08255208333333,
   "collapse-forces": false,
+<<<<<<< HEAD
   "centerStrength": 0.265625,
   "repelStrength": 9.6875,
   "linkStrength": 0.552083333333333,
   "linkDistance": 30,
   "scale": 0.1840070334969471,
+=======
+  "centerStrength": 0.377604166666667,
+  "repelStrength": 9.84375,
+  "linkStrength": 0.690104166666667,
+  "linkDistance": 222,
+  "scale": 0.6445400371068782,
+>>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
   "close": false
 }

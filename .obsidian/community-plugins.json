@@ -20,5 +20,11 @@
   "chronology",
   "emoji-shortcodes",
   "obsidian-heading-shifter",
+<<<<<<< HEAD
   "no-dupe-leaves"
+=======
+  "no-dupe-leaves",
+  "typing-speed",
+  "home-tab"
+>>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
 ]

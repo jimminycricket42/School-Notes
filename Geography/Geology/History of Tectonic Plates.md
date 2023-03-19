@@ -1,7 +1,7 @@
 ---
 date: [Wed 14/09 2022]
 aliases: [continental drift,  ]
-tags: [GR10/Q2 geology/tectonic-plates Ecology/lithosphere ]
+tags: [GR10/Q2 geology Ecology/lithosphere ]
 modified: Thu 03/11 2022 08:00
 ---
 # History of Tectonic Plates

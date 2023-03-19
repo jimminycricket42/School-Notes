@@ -1,7 +1,7 @@
 ---
 date: [Mon 23/05 2022]
 aliases: [rain, snow, hail, sleet, dew, frost, ]
-tags: [GR10/Q1, climatology/weather climatology/atmosphere/moisture Ecology/hydrosphere Ecology/atmosphere ]
+tags: [GR10/Q1, climatology climatology Ecology/hydrosphere Ecology/atmosphere ]
 modified: Thu 03/11 2022 08:00
 ---
 # Precipitation

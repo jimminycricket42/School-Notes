@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Film Comparison: 1974 vs 2013
-#GR10/Q2 #poems-and-prose/Gatsby/character #poems-and-prose/Gatsby/movies #reading/analysis 
+#GR10/Q2 #poems-and-prose/Gatsby/character #poems-and-prose/Gatsby/movies #poems-and-prose/analysis 
 
 *Question:* Of the two films (1974 – Jack Clayton, 2013 – Baz Luhrmann), which is more successful at capturing the themes, moods, and characters of F. Scott Fitzgerald’s novel: *The Great Gatsby*.
 

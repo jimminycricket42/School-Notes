@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Prepared reading: Selection and motivation
-#GR9 #language #reading/prepared-reading
+#GR9 #language #language/prepared-reading
 
 Prepared reading consists of the choice of passage, the motivation, and the delivery.  
 Bring two photocopies of your passage — one for you and one for your teacher. 

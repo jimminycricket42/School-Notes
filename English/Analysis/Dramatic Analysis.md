@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Dramatic analysis
-#GR9 #reading/analysis
+#GR9 #poems-and-prose/analysis
 
 Dramatic analysis is when you analyse a play, looking at it's structure, character, and plot.
 
