@@ -1,6 +1,6 @@
 ---
 aliases: [electrical charge, insulators, conductors, friction  ]
-tags: [GR10/Q4 atom-theory/electrostatics ]
+tags: [GR10/Q4 atom-theory ]
 created: Thu 03/11 2022
 modified: Thu 03/11 2022
 ---

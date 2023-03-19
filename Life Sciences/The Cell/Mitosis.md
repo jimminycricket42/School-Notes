@@ -1,10 +1,10 @@
 ---
-modified: Thu 03/11 2022 08:00
+aliases: [ ]
+tags: [GR10/Q2 life/reproduction biochemistry/organic-cells ]
+created: Wed 01/03 2023
 ---
 # Mitosis
-#GR10/Q2 #biochemistry/organic-cells/cell-division
-
-Cells exist in two phases - interphase and division phase. Interphase is the time where [[the cell]] performs its regular functions, and the DNA replicates. Interphase ends when the division phase begins. Cells increase by means of mitosis, which is a *continuous* process where *exact genetic replicas* of [[the cell]] are made. This allows our body to grow and repair damaged cells. 
+Cells exist in two phases - interphase and division phase. Interphase is the time where [[the cell]] performs its regular functions, and the DNA replicates. Interphase ends when the division phase begins. Cells increase by means of mitosis, which is a *continuous* process where *exact genetic replicas* of [[the cell]] are made. This allows our body to grow and repair damaged cells. ^blurb
 
 ![[Cell division]]
 

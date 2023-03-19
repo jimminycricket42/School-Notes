@@ -1,7 +1,7 @@
 ---
 date: [Mon 23/05 2022]
 aliases: [ ]
-tags: [GR10/Q1 climatology/weather mapwork/types-of-maps ]
+tags: [GR10/Q1 climatology mapwork/types-of-maps ]
 modified: Thu 03/11 2022 08:00
 ---
 # Synoptic Weather Maps

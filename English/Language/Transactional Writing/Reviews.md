@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Reviews
-#GR9 #language/writing/transactional-writing 
+#GR9 #language/writing 
 Reviews are meant to inform or persuade the reader to buy or experience whatever you are reviewing
 
 ## Title:

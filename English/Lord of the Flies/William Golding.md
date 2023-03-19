@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR11/Q1 poems-and-prose/background ]
+tags: [GR11/Q1 poems-and-prose ]
 created: Tue 24/01 2023
 ---
 # William Golding

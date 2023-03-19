@@ -1,7 +1,7 @@
 ---
 date: [Sat 10/09 2022]
 aliases: [element, compound]
-tags: [GR10/Q2 atom-theory/atoms ]
+tags: [GR10/Q2 atom-theory classification-of-materials ]
 modified: Thu 03/11 2022 08:00
 ---
 # Classification of Matter

@@ -1,7 +1,7 @@
 ---
 date: [Sat 21/05 2022]
 aliases: [dew point, water vapour capacity, relative humidity, actual humidity, humidity, condensation layer]
-tags: [GR10/Q1 climatology/weather climatology/atmosphere/moisture ]
+tags: [GR10/Q1 climatology climatology ]
 modified: Thu 03/11 2022 08:00
 ---
 # Moisture in the Atmosphere

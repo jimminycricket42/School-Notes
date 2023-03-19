@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 computers/networks computers/connectivity ]
+tags: [GR10/Q4 computers/connectivity computers/connectivity ]
 created: Sat 19/11 2022
 ---
 # The World Wide Web

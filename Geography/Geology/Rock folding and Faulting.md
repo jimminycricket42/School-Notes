@@ -1,7 +1,7 @@
 ---
 date: [Wed 14/09 2022]
 aliases: [ ]
-tags: [GR10/Q2 Ecology/lithosphere geology/processes geology/land-formations geology/tectonic-plates ]
+tags: [GR10/Q2 Ecology/lithosphere geology geology geology ]
 modified: Thu 03/11 2022 08:00
 ---
 # Rock folding and Faulting

@@ -4,7 +4,7 @@ modified: Thu 03/11 2022 08:00
    
 
 # Elements of an Invitation
-#GR9 #language/writing/transactional-writing 
+#GR9 #language/writing 
 
 -   The title of the celebration as a bold title
 -   The date and time your event will take place

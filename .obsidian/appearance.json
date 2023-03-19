@@ -1,14 +1,12 @@
 {
-  "accentColor": "#3d6e94",
+  "accentColor": "#43c70a",
+  "cssTheme": "",
+  "textFontFamily": "Roboto",
+  "interfaceFontFamily": "Helvetica",
+  "baseFontSize": 16,
+  "theme": "moonstone",
   "enabledCssSnippets": [
-    "colourfulIText",
-    "SubtleLinks",
-    "smoothCursor"
-  ],
-  "cssTheme": "Jotter",
-  "baseFontSize": 17,
-  "theme": "obsidian",
-  "baseFontSizeAction": false,
-  "translucency": false,
-  "showViewHeader": true
+    "Callouts",
+    "Image Grid"
+  ]
 }

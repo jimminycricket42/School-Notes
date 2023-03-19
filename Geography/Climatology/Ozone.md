@@ -1,7 +1,7 @@
 ---
 date: [Thu 19/05 2022]
 aliases: [ ]
-tags: [GR10/Q1 climatology/atmosphere/structure Ecology/atmosphere ]
+tags: [GR10/Q1 climatology Ecology/atmosphere ]
 modified: Thu 03/11 2022 08:00
 ---
 # Ozone

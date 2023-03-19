@@ -1,7 +1,7 @@
 ---
 date: [Sun 15/05 2022]
 aliases: [ ]
-tags: [GR10/Q2 chemistry/bonding chemistry/bonding/metals ]
+tags: [GR10/Q2 chemistry/bonding classification-of-materials ]
 modified: Thu 03/11 2022 08:00
 ---
 # Covalent bonding

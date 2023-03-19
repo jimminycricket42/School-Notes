@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Volcanoes
-#GR10/Q2 #geology/natural-disasters 
+#GR10/Q2 #geology 
 
 Volcanoes are areas where there are *extrusive* volcanic activity, where magma reaches the earth’s surface and becomes lava. 
 

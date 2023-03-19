@@ -1,6 +1,6 @@
 ---
 aliases: [anion, cation ]
-tags: [GR10/Q2 atom-theory/atoms]
+tags: [GR10/Q2 atom-theory]
 created: Thu 03/11 2022
 modified: Thu 03/11 2022
 ---

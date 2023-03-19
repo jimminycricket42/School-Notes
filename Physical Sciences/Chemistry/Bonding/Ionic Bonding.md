@@ -1,7 +1,7 @@
 ---
 date: [Sun 15/05 2022]
 aliases: [ ]
-tags: [GR10/Q2 chemistry/bonding chemistry/bonding/metals chemistry/bonding/non-metals ]
+tags: [GR10/Q2 chemistry/bonding classification-of-materials ]
 modified: Sun 30/10 2022 19:00
 ---
 # Ionic Bonding

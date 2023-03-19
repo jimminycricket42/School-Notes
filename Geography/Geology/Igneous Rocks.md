@@ -1,7 +1,7 @@
 ---
 date: [Mon 23/05 2022]
 aliases: [ ]
-tags: [GR10/Q2 geology/types-of-rocks geology/land-formations Ecology/lithosphere]
+tags: [GR10/Q2 geology geology Ecology/lithosphere]
 modified: Thu 03/11 2022 08:00
 ---
 # Igneous Rocks

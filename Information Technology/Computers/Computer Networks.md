@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 computers/networks ]
+tags: [GR10/Q4 computers/connectivity ]
 created: Sat 29/10 2022
 modified: Sat 29/10 2022
 ---

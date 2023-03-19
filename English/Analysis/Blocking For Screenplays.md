@@ -1,7 +1,7 @@
 ---
 date: [Wed 12/10 2022]
 aliases: [ ]
-tags: [GR9 language/film-study ]
+tags: [GR9 poems-and-prose/analysis ]
 modified: Thu 03/11 2022 08:00
 ---
 # Blocking For Screenplays

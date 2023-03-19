@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Summary
-#GR10/Q1 #language #language/writing/transactional-writing 
+#GR10/Q1 #language #language/writing 
 
 There are a few things to keep track of in summaries:
 - Use key facts only — leave out examples and unnecessary detail

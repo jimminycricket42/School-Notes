@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Earthquakes
-#GR10/Q2 #geology/natural-disasters
+#GR10/Q2 #geology
 
 Earthquakes are vibrations of the earth that are caused by the [[tectonic plates]]. Plate movements cause faults in the earth’s crust that create *tectonic stresses*, which in turn create the *vibrations*. 
 We can’t prevent earthquakes, but we can predict them and prepare. 

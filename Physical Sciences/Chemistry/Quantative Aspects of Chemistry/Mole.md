@@ -1,7 +1,7 @@
 ---
 date: [Sat 10/09 2022]
 aliases: [Moles, Concentration, Molar mass,  ]
-tags: [GR10/Q3 terminology atom-theory/atoms chemistry/quantitative-chemistry ]
+tags: [GR10/Q3 terminology atom-theory chemistry/quantitative-chemistry ]
 modified: Thu 03/11 2022 08:00
 ---
 # Mole

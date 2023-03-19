@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Weathering
-#GR9 #geology/processes/weathering
+#GR9 #geology
 
 Weathering is the breaking down and wearing away of rocks and soil by water, temperature changes, chemicals or plants and animals. ^44df2a
 
