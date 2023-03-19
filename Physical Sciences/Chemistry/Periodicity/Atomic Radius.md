@@ -1,6 +1,6 @@
 ---
 aliases: [atomic size ]
-tags: [GR10/Q2 atom-theory/periodicity]
+tags: [GR10/Q2 atom-theory]
 created: [Sun 15/05 2022]
 modified: Thu 03/11 2022 08:00
 ---

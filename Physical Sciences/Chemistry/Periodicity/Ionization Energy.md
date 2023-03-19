@@ -1,7 +1,7 @@
 ---
 date: Sun 15/05 2022
 aliases: [ ]
-tags: [GR10/Q2 terminology atom-theory/periodicity]
+tags: [GR10/Q2 terminology atom-theory]
 modified: Thu 03/11 2022 07:00
 ---
 # Ionisation Energy

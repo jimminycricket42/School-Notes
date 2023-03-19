@@ -1,7 +1,7 @@
 ---
 date: [Wed 14/09 2022]
 aliases: [ ]
-tags: [GR9 geology/processes/deposition Ecology/lithosphere geology/rock-cycle]
+tags: [GR9 geology Ecology/lithosphere geology]
 modified: Thu 03/11 2022 08:00
 ---
 # Deposition

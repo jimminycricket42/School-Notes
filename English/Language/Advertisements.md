@@ -4,7 +4,7 @@ modified: Thu 03/11 2022 08:00
    
 
 # Elements of an advertisement
-#GR9 #reading/analysis #reading
+#GR9 #poems-and-prose/analysis #language
 - Backgrounding
 - Rack focus (out of focus/in shadow)
 - Frame composition (set, wardrobe, models, props)..

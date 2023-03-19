@@ -9,8 +9,8 @@ There are 3 equations of motion that we can use to analyse motion.
 
 These equations are:
 - Graph of position and time
-- Graph of Velocity and Time
-- Graph of Acceleration and Time
+- Graph of [[Velocity (v)]] and Time
+- Graph of [[Acceleration (a)]] and Time
 
 ## Graph of Position and Time 
 ![[Position Time Graph.jpeg]]

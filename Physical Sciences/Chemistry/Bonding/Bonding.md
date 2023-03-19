@@ -1,10 +1,13 @@
+
+
 ---
+aliases: [ ]
+tags: [GR10/Q2 chemistry/bonding classification-of-materials ]
+created: Tue 07/03 2023
 modified: Sun 30/10 2022 19:00
 ---
 # Bonding
-#GR10/Q2 #chemistry/bonding 
-
-When looking at bonding, we look at three types:
+When looking  ^blurbat bonding, we look at three types:
 - [[Ionic Bonding]]
 - [[Covalent Bonding]]
 - [[Metallic Bonding]]

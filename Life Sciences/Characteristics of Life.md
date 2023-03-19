@@ -1,6 +1,6 @@
 ---
 aliases: [mrs nerg ]
-tags: [GR10/Q2]
+tags: [GR10/Q2 life ]
 date: Sun 29/05 2022
 modified: Thu 03/11 2022 08:00
 ---

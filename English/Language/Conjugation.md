@@ -2,7 +2,7 @@
 modified: Wed 02/11 2022 10:00
 ---
 # Conjugation
-#GR9 #language #language/writing/textual-editing
+#GR9 #language #language/writing
 
 To conjugate a verb means to put it in context to a subject. You can have singular or plural subject. 
 

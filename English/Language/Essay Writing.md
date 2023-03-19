@@ -1,7 +1,7 @@
 ---
 date: [Tue 11/10 2022]
 aliases: [Creative writing, ]
-tags: [GR10/Q4 language/writing language/writing/creative-writing language ]
+tags: [GR10/Q4 language/writing language/writing language ]
 modified: Thu 03/11 2022 08:00
 ---
 # Creative Writing

@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Register
-#GR9  #language  #language/writing #reading/analysis 
+#GR9  #language  #language/writing #poems-and-prose/analysis 
 
 Register can be defined as how you speak to someone or how you communicate an idea in an essay or piece of writing. It covers what language is appropriate to use in what context.
 

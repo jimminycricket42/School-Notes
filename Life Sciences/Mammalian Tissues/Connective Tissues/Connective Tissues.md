@@ -5,10 +5,11 @@ tags: [GR10/Q1, the-body/mammalian-tissues ]
 modified: Thu 03/11 2022 08:00
 ---
 # Connective Tissues
-# Connective Tissues
 
-Connective tissues have larger intercellular spaces, with a lot of substances between the cells. This space contains a ground 
-substance, also known as the matrix. 
+Connective tissues have larger intercellular spaces, with a lot of substances between the cells. This space contains a ground substance, also known as the matrix. 
+
+> [!note] Mammalian Connective Tissues
+> The mammalian Connective Tissues only occur in mammals of [[The Kingdom Animalia|Kingdom Animalia]]. 
 
 ## Connective tissues are made up of:
 - [[Areolar Connective Tissue]] - binding tissue

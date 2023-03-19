@@ -5,14 +5,19 @@ created: Fri 10/02 2023
 ---
 # Types of Immunity
 There are 2 types of [[immunity]]: Natural and Acquired. They vary in the specificity of defense and the methods used to remove [[Microorganisms|pathogens]] and prevent diseases. ^blurb
-
-![[Types of immunity chart.png]]
+```mermaid
+flowchart LR
+im([Immunity]) --- adap([Adaptive Immunity]) & nat([Natural Immunity])
+adap --- natAdap([Natural]) & art([Artificial])
+art --- pasart(["Passive (Maternal)"]) & actArt(["Active (Infection)"])
+natAdap --- natPas(["Passive (Antibody transfer)"]) & natArt(["Active (Immunization)"])
+```
 
 ## Natural Immunity
 Naturally humans are born with some defense mechanisms to prevent diseases. They mainly focus on preventing pathogens from entering the body. Our first line of defense is the skin. It prevents most pathogens from entering the body, forcing them to go through the orifices of the body. 
 
 When the body recognizes a foreign organism entering an orifice it will react by:
-- Sneezing and Coughing to remove pathogens from [[The Trachea|trachea|airways]]
+- Sneezing and Coughing to remove pathogens from [[The Trachea|airways]]
 - Tears to wash the eyes and saliva to clean the mouth. 
 - Mucous to trap pathogens trying to enter [[Lungs|the lungs]]
 - Hairs and [[Cilia]] to trap pathogens in [[The Nose]]

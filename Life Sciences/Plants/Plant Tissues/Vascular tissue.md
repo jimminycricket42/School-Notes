@@ -11,7 +11,7 @@ We look at:
 - Phloem
 
 ## Xylem
-Xylem is dead tissue that forms drinking-straw-like tubes that uses [[Capillarity]] to move fluids up the stem. Xylem consists of [[#xylem vessels]] and [[#tracheids]]
+Xylem is dead tissue that forms drinking-straw-like tubes that uses [[Capillarity]] to move fluids up the stem. Xylem consists of [[#xylem vessels]] and [[#tracheids]]. It is responsible for moving water from the roots of the plant to the tips. ^xylem-blurb
 
 ### Xylem Vessels
 - Elongated cells connected as a continuous, round tube
@@ -35,7 +35,7 @@ Xylem is dead tissue that forms drinking-straw-like tubes that uses [[Capillarit
 - [[Transport Within Plants]]
 
 ## Phloem
-Phloem consists of sieve tubes and companion cells
+Phloem consists of sieve tubes and companion cells, which transport the products of photosynthesis throughout the plant. ^phloem-blurb
 
 ### Sieve Tubes
 - Elongated living cells joined together

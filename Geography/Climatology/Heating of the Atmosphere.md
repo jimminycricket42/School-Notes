@@ -1,7 +1,7 @@
 ---
 date: [Thu 19/05 2022]
 aliases: [terrestrial radiation, solar radiation, insolation ]
-tags: [GR10/Q1 climatology/atmosphere/temperature Ecology/atmosphere]
+tags: [GR10/Q1 climatology Ecology/atmosphere]
 modified: Thu 03/11 2022 08:00
 ---
 # Heating of the Atmosphere

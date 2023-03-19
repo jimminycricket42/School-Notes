@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3a4a9fd06022c3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf84658d115c2802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbec380b533ca25b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0ba699c043f53b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Technology/Code/SQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90fd24611c3cf2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ce0f1e5b14669f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b580ef66bbc80f37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70f7cc920c24f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "629751c8bf16de63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f98b81075433a057",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "5a193c6156722c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "7391dc3500510c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62828a4a58797b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Technology/Code/SQL.md"
+              }
+            }
+          },
+          {
+            "id": "d65296f5298da1d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "16fed6ccadc7d6f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Technology/Code/SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "0ba699c043f53b88",
+  "lastOpenFiles": [
+    "Information Technology/Code/Databases and SQL.md",
+    "Information Technology/Code/SQL.md",
+    "Information Technology/Data storage.md",
+    "EGD/PAT 2023.md",
+    "EGD/Attachments/PAT 2023.pdf",
+    "EGD/Attachments/Plastic Strength Chart.png",
+    "EGD/Attachments/Concept 3.jpeg",
+    "EGD/Attachments/Pulley Block.png",
+    "EGD/Attachments/Concept 1.png",
+    "EGD/Attachments/PNG image (1).png.crdownload",
+    "EGD/Attachments/IMG_3032.jpeg.crdownload",
+    "Harvard Source Referencing.pdf",
+    "EGD/PAT 2023.pdf",
+    "EGD/Attachments/Mounting Bracket.png",
+    "EGD/Attachments/Pulley Assembly 2.png",
+    "EGD/Attachments/Pulley Assembly 1.png",
+    "EGD/Attachments/Pasted image 20230316165149.jpg",
+    "EGD/Attachments/Pasted image 20230316165131.jpg",
+    "EGD/Attachments/Pasted image 20230316165116.jpg",
+    "Mathematics/Trigonometric Identities.md",
+    "Mathematics/Functions.md",
+    "Wavelength (λ).md",
+    "Physical Sciences/Physics/Waves/Wavelength (λ).md",
+    "Life Sciences/The Human Body/The Respiratory System/Gaseous Exchange in the Human Body.md",
+    "Life Sciences/Organisms/Animalia/Body Plans.md",
+    "Life Sciences/Mammalian Tissues/Connective Tissues/Connective Tissues.md",
+    "Life Sciences/Biological Organisation.md",
+    "Life Sciences/Organisms/Taxonomy/Taxonomy.md",
+    "Life Sciences/Organisms/Animalia/The Kingdom Animalia.md",
+    "Personal/Templates/Note Callout.md",
+    "Personal/Templates/New Note template.md",
+    "Personal/Templates/Literary Theme Template.md",
+    "Personal/Templates/IT Flow Chart.md",
+    "Life Sciences/Organisms/Animalia/Attachments",
+    "Life Sciences/Organisms/Untitled.md",
+    "Life Sciences/Organisms/Microorganisms",
+    "Information Technology/Computers/Machine Cycle.md",
+    "Life Sciences/Organisms/Animalia",
+    "Information Technology/Computers/Hardware/CPU.md",
+    "Water Potential (Ψ).md",
+    "Life Sciences/Organisms/Taxonomy/Dichotomous Keys.md",
+    "Information Technology/Computers/Software/High-level Languages.md",
+    "Information Technology/Computers/Software/Low-level Languages.md",
+    "Information Technology/Computers/Software/Translators.md",
+    "Information Technology/Computers/Software/Attachments",
+    "Physical Sciences/Physics/Motion/Newton's Laws",
+    "Life Sciences/The Human Body/The Immune System/Immune System.canvas",
+    "Life Sciences/Mammalian Tissues/Untitled.canvas"
+  ]
+}

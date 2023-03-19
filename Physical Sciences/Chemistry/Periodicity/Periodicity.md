@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 atom-theory/periodicity ]
+tags: [GR10/Q4 atom-theory ]
 created: Tue 08/11 2022
 modified: Tue 08/11 2022
 ---

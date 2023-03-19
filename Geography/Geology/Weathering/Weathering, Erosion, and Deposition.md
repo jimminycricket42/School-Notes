@@ -2,7 +2,7 @@
 modified: Thu 03/11 2022 08:00
 ---
 # Weathering, erosion, and deposition
-#GR9 #geology/processes/weathering #geology/processes/erosion #geology/processes/deposition 
+#GR9 #geology #geology #geology 
 
 [[Weathering]], erosion, and deposition are all linked processes that create the natural features we see in the world.
 

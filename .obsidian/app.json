@@ -11,8 +11,7 @@
   "fileSortOrder": "alphabetical",
   "spellcheckLanguages": [
     "en-GB-oxendict",
-    "en-GB",
-    "en-US"
+    "en-GB"
   ],
   "readableLineLength": true,
   "lineWrap": true,
@@ -25,16 +24,18 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 90
   },
   "livePreview": false,
   "defaultViewMode": "preview",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "showLineNumber": false,
   "showInlineTitle": false,
   "spellcheckDictionary": [
     "uns",
     "Acellular",
     "acellular"
-  ]
+  ],
+  "useTab": true,
+  "showIndentGuide": true
 }

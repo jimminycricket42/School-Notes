@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 atom-theory/periodicity chemistry/bonding ]
+tags: [GR10/Q4 atom-theory chemistry/bonding ]
 created: Thu 03/11 2022
 modified: Thu 03/11 2022
 ---

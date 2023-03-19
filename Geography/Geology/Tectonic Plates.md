@@ -1,7 +1,7 @@
 ---
 date: [Mon 16/05 2022]
 aliases: [plate tectonics, plate boundaries]
-tags: [GR10/Q2 geology/tectonic-plates ]
+tags: [GR10/Q2 geology ]
 modified: Thu 03/11 2022 08:00
 ---
 # Tectonic Plates

@@ -5,23 +5,23 @@
     "fontSize": 14,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasListCheck",
-      "FasChartColumn",
-      "FasArrowsLeftRight",
-      "FasWhiskeyGlass",
-      "FasAnglesRight",
-      "FasTableCells",
-      "FasTimeline",
-      "FasAtom",
-      "FasCarBattery",
-      "FasCarSide"
+      "LuOption",
+      "FasMicrochip",
+      "LuMonitor",
+      "LuFile-code",
+      "LuMouse",
+      "LuGlobe-2",
+      "FasDesktop",
+      "FasCode",
+      "FasUserDoctor",
+      "FasBacterium"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
       {
-        "rule": "/*/Attatchments",
-        "icon": "FasClipboardList",
-        "for": "folders"
+        "rule": "Attachments",
+        "icon": "LuClipboard",
+        "for": "everything"
       }
     ],
     "extraMargin": {
@@ -34,8 +34,8 @@
   },
   "Life Sciences": "FasPerson",
   "Mathematics": "FasPlusMinus",
-  "Information Technology": "FasComputerMouse",
-  "Geography": "FasGlobe",
+  "Information Technology": "LuMouse",
+  "Geography": "LuGlobe-2",
   "English": "FasMasksTheater",
   "Afrikaans": "FasEarthAfrica",
   "Physical Sciences": "FasGear",
@@ -67,5 +67,18 @@
   "Life Sciences/Todo - Life Sciences.md": "FasListCheck",
   "Information Technology/Todo - ITJ.md": "FasListCheck",
   "Physical Sciences/Physical Sciences To-Do.md": "FasListCheck",
-  "-ToDo.md": "FasCheck"
+  "-ToDo.md": "FasCheck",
+  "Life Sciences/Diseases": "FasHeadSideCough",
+  "Life Sciences/Ecology": "FasMountain",
+  "Life Sciences/History of life on Earth": "FasClockRotateLeft",
+  "Life Sciences/Mammalian Tissues": "FasDog",
+  "Life Sciences/Organisms": "FasVirusCovid",
+  "Life Sciences/Plants": "FasLeaf",
+  "Life Sciences/Terminology": "FasBookAtlas",
+  "Life Sciences/The Cell": "FasBacterium",
+  "Life Sciences/The Human Body": "FasUserDoctor",
+  "Information Technology/Computers/Hardware": "FasMicrochip",
+  "Information Technology/Code": "LuFile-code",
+  "Information Technology/Computers": "LuMonitor",
+  "Information Technology/Computers/Software": "LuOption"
 }

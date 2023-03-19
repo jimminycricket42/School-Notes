@@ -1,10 +1,10 @@
 ---
-aliases: [ Central Processing Unit, ]
+aliases: [ Central Processing Unit, Multiprocessing]
 tags: [GR11/Q1 computers/hardware ]
 created: Sat 11/02 2023
 ---
 # Central Processing Unit
-The CPU is the primary processor of the whole computer. Most logical operations start here. ^blurb
+The CPU is the primary processor of the whole computer. Most logical operations start here. To process instructions, the CPU reads [[Low-level Languages]] as a part of the [[Machine Cycle]] and stores that data into [[RAM|primary memory]]. ^blurb
 
 ## Components of the CPU
 The CPU consists of:
@@ -59,6 +59,7 @@ Parallel processing also breaks up a problem into instructions, but then the loa
 
 ### Multi-threading
 Before parallel processing was feasible, computer scientists saw a way to optimize single-core processors. They had a lot of downtime where they were waiting on the next instruction to load from memory. To accelerate this loading, they decided to duplicate the registers on the chip, allowing processors to pre-load more instructions and therefore reduce wait time. 
+
 ### Hyper-threading: the first parallel processors
 In 2002 Intel tried something new: they got their CPU’s to execute two sets of instructions at the same time. Each instruction became a “thread” contained within a program. It allowed one CPU to split it’s resources amongst two ‘digital’ ALU’s. This means that it can handle two separate streams of information at once, such as two programs or two threads, which reduced the amount of *state changes* (all the values related to a program), and therefore increased the speed of *context switching* (changing from one thread to another). 
 
@@ -74,8 +75,9 @@ end
 > hyperthreading
 
 Hyperthreading is a hardware-based technology, but the [[operating system]] must take advantage of the two logical cores. Otherwise, the two cores will be used like one. 
+
 ### Multiprocessing
-Multiprocessing uses multiple CPU’s. Similar to multi-threading, this lets many processes run at the same time, but the registers are not shared between each core. This is advantageous as it increases the amount of register space, as well as the amount of processing capability. However, both the operating system and the motherboard need to support this technology. 
+Multiprocessing uses multiple CPU’s. Similar to [[Processing Techniques|multi-threading]], this lets many processes run at the same time, but the registers are not shared between each core. This is advantageous as it increases the amount of register space, as well as the amount of processing capability. However, both the operating system and the motherboard need to support this technology. 
 
 ```mermaid
 flowchart LR
@@ -93,7 +95,7 @@ end
 You can combine multiprocessing and hyperthreading to increase the total number of logical cores, without increasing the needed amount of physical cores on the device. 
 
 ## Processor Cache
-Processor cache allows small bits of data to be stored near the processor, allowing it to store commands in an easy-to-access manner. This helps prevent downtime on the CPU, and accelerates processes that require large amounts of data. 
+Processor [[Cache and Latency|cache]] allows small bits of data to be stored near the processor, allowing it to store commands in an easy-to-access manner. This helps prevent downtime on the CPU, and accelerates processes that require large amounts of data. 
 
 Cache is made up of [[RAM|SRAM]] (Static RAM). Which has faster access rates than [[RAM|DRAM]] (Dynamic RAM). 
 

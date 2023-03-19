@@ -1,7 +1,7 @@
 ---
 date: [Mon 26/09 2022]
 aliases: [ ]
-tags: [GR10/Q2 terminology chemistry/bonding ]
+tags: [GR10/Q2 terminology chemistry/bonding classification-of-materials ]
 modified: Thu 03/11 2022 08:00
 ---
 # Allotropes

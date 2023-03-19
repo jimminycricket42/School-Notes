@@ -1,7 +1,7 @@
 ---
 date: [Mon 24/10 2022]
 aliases: [ambiguity, malapropism, misrelated participle, sentence fragments, concord, tautology, redundancy, verbosity, circumlocution, cliche, mixed metaphor ]
-tags: [GR9 poems-and-prose language/writing/textual-editing ]
+tags: [GR9 poems-and-prose language/writing ]
 modified: Wed 02/11 2022 10:00
 ---
 # Textual Editing

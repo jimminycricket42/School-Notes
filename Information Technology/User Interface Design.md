@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q4 computers/software code/layouts ]
+tags: [GR10/Q4 computers/software code ]
 created: Sat 19/11 2022
 ---
 # User Interface Design

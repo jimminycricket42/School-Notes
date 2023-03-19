@@ -21,6 +21,7 @@ modified: Thu 03/11 2022 08:00
 ## Or
 **Values**: 0; 1
 **Test**: Are either of two statements true. If one is, then the gate is true. 
+
 | B   | B   | A or B | Description                           |
 | --- | --- | ------ | ------------------------------------- |
 | 0   | 0   | 0      | False – both values are false         |
@@ -45,6 +46,7 @@ For instance:
 We do not know how old Luhan is, nor do we know when swimming is. So, we can plot this out to see when it would be true. In this case, let’s make ```Luhan is 20yrs old``` into variable ```A``` and make ```Swimming is on Fridays``` into variable ```B```. We can now express this as: ```A AND NOT B```
  
 Now we can use a truth table to figure out when this statement will be true:
+
 | A   | B   | Working     | Working | A AND NOT B | Result |
 | --- | --- | ----------- | ------- | ----------- | ------ |
 | 0   | 0   | 0 AND NOT 0 | 0 AND 1 | 0           | False  |
