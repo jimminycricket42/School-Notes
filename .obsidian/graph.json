@@ -46,7 +46,7 @@
       "query": "path:\"Information Technology\"",
       "color": {
         "a": 1,
-        "rgb": 4366079
+        "rgb": 2752468
       }
     },
     {
@@ -78,17 +78,23 @@
   "lineSizeMultiplier": 1.08255208333333,
   "collapse-forces": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "centerStrength": 0.265625,
   "repelStrength": 9.6875,
   "linkStrength": 0.552083333333333,
   "linkDistance": 30,
   "scale": 0.1840070334969471,
 =======
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
   "centerStrength": 0.377604166666667,
   "repelStrength": 9.84375,
   "linkStrength": 0.690104166666667,
   "linkDistance": 222,
   "scale": 0.6445400371068782,
+<<<<<<< HEAD
 >>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
   "close": false
 }

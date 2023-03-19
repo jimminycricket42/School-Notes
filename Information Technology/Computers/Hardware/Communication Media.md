@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 <<<<<<< HEAD:Information Technology/Computers/Communication Media.md
 aliases: [ADSL, Fibre ]
 tags: [GR10/Q4 computers/connectivity computers/networks ]
@@ -6,6 +7,10 @@ tags: [GR10/Q4 computers/connectivity computers/networks ]
 aliases: [ADSL, Fibre, WiFi, Bluetooth ]
 tags: [GR10/Q4 computers/connectivity computers/connectivity ]
 >>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit):Information Technology/Computers/Hardware/Communication Media.md
+=======
+aliases: [ADSL, Fibre, WiFi, Bluetooth ]
+tags: [GR10/Q4 computers/connectivity computers/connectivity ]
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
 created: Fri 18/11 2022
 ---
 # Communication Media

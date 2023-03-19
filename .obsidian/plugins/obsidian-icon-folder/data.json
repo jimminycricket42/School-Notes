@@ -69,9 +69,13 @@
   "Physical Sciences/Physical Sciences To-Do.md": "FasListCheck",
   "-ToDo.md": "FasCheck",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   "Life Sciences/Diseases": "FasHeadSideCough",
 >>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
+=======
+  "Life Sciences/Diseases": "FasHeadSideCough",
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
   "Life Sciences/Ecology": "FasMountain",
   "Life Sciences/History of life on Earth": "FasClockRotateLeft",
   "Life Sciences/Mammalian Tissues": "FasDog",
@@ -81,12 +85,18 @@
   "Life Sciences/The Cell": "FasBacterium",
   "Life Sciences/The Human Body": "FasUserDoctor",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Information Technology/Code": "LuFile-code",
   "Information Technology/Computers": "LuMonitor"
 =======
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
   "Information Technology/Computers/Hardware": "FasMicrochip",
   "Information Technology/Code": "LuFile-code",
   "Information Technology/Computers": "LuMonitor",
   "Information Technology/Computers/Software": "LuOption"
+<<<<<<< HEAD
 >>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
 }

@@ -62,7 +62,7 @@
   "chime-theme@@ultra-focus": false,
   "chime-theme@@line-style": "line-style-dotted",
   "chime-theme@@tag-style": "tag-button",
-  "title@@hide-toolbar-desktop": true,
+  "title@@hide-toolbar-desktop": false,
   "title@@more-drag-desktop": true,
   "title@@vibrant": false,
   "title@@dim-light-mode": false,
@@ -81,8 +81,11 @@
   "chime-theme@@h1-center": true,
   "chime-theme@@h1-bottom-border": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "chime-theme@@underlined-highlight": false
 =======
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
   "chime-theme@@underlined-highlight": false,
   "title@@disable-tooltip-animation": false,
   "minimal-style@@window-title-off": false,
@@ -127,5 +130,8 @@
   "anuppuccin-theme-settings@@anp-list-toggle": true,
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false
+<<<<<<< HEAD
 >>>>>>> 0e7cc29 (There is a lot of changes, this is to prep for me to move to windows for a little bit)
+=======
+>>>>>>> 0e7cc29a16c07693620daef0b8f0ff31d2a02814
 }
