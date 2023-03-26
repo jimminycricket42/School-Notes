@@ -2,7 +2,7 @@
   "spellcheck": true,
   "tabSize": 2,
   "promptDelete": false,
-  "foldHeading": true,
+  "foldHeading": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "legacyEditor": false,
@@ -28,7 +28,7 @@
   },
   "livePreview": false,
   "defaultViewMode": "preview",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "showLineNumber": false,
   "showInlineTitle": false,
   "spellcheckDictionary": [

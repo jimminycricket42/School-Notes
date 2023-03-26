@@ -1,13 +1,12 @@
 {
-  "accentColor": "#2de6af",
+  "accentColor": "#6bc6ff",
   "cssTheme": "Material Flat",
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Helvetica",
   "baseFontSize": 16,
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
-    "Callouts",
-    "Image Grid",
-    "TextAdjustments"
-  ]
+    "Callouts"
+  ],
+  "translucency": true
 }
