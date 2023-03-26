@@ -1,0 +1,3 @@
+Body Text .markdown-preview-view, .markdown-source-view, .cm-line {
+font-weight: var(--regular);
+}

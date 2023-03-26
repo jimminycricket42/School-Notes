@@ -8,30 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbec380b533ca25b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "f6c5beadfdfc4485",
+            "id": "39cd7e232fb5eeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Technology/Computers/Hardware/CPU.md",
+                "file": "Life Sciences/Plants/Reproduction in Plants.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9209d733e526d5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life Sciences/Plants/Bryophytes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 271
   },
   "right": {
     "id": "5a193c6156722c15",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology/Computers/Hardware/CPU.md"
+                "file": "Life Sciences/Plants/Reproduction in Plants.md"
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology/Computers/Hardware/CPU.md",
+                "file": "Life Sciences/Plants/Reproduction in Plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +160,19 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "f6c5beadfdfc4485",
+  "active": "39cd7e232fb5eeaa",
   "lastOpenFiles": [
-    "Information Technology/Computers/Hardware/Secondary Storage.md",
+    "Life Sciences/Plants/Transport Within Plants.md",
+    "Life Sciences/Plants/Reproduction in Plants.md",
+    "Life Sciences/Plants/Pteridophytes.md",
+    "Life Sciences/Plants/Classification of Plants.md",
+    "Life Sciences/Plants/Bryophytes.md",
+    "Life Sciences/Plants/Attachments/Mature Fern.png",
+    "Life Sciences/Plants/Attachments/Prothallus of a Pteridophyte.png",
+    "Life Sciences/Plants/Alteration of Plant Generations.md",
     "Information Technology/Computers/Hardware/RAM.md",
+    "Information Technology/Computers/Hardware/CPU.md",
+    "Information Technology/Computers/Hardware/Secondary Storage.md",
     "Information Technology/Computers/Hardware/Motherboard.md",
     "Physical Sciences/Physics/Waves/Wavelength (λ).md",
     "Physical Sciences/Physics/Motion/Newton's Laws/Newtons Third Law.md",
@@ -173,12 +184,7 @@
     "Mathematics/Trigonometric Identities.md",
     "Mathematics/Functions.md",
     "Life Sciences/Reproduction.md",
-    "Life Sciences/Plants/Reproduction in Plants.md",
-    "Life Sciences/Plants/Pteridophytes.md",
-    "Life Sciences/Plants/Classification of Plants.md",
-    "Life Sciences/Plants/Bryophytes.md",
     "Life Sciences/Plants/Angiosperms.md",
-    "Life Sciences/Plants/Alteration of Plant Generations.md",
     "Life Sciences/Organisms/Taxonomy/Taxonomy.md",
     "Life Sciences/Organisms/Taxonomy/Dichotomous Keys.md",
     "Life Sciences/Organisms/Taxonomy/Classification.md",
@@ -186,8 +192,6 @@
     "Life Sciences/Organisms/Taxonomy/Biodiversity.md",
     "Life Sciences/Organisms/Taxonomy",
     "Life Sciences/Organisms/Microorganisms/Viruses.md",
-    "Life Sciences/Organisms/Microorganisms/Protista.md",
-    "Life Sciences/Organisms/Microorganisms/Microorganisms.md",
     "Life Sciences/Organisms/Microorganisms",
     "Life Sciences/Organisms/Attachments/Rhizopus Diagram.png",
     "Life Sciences/Organisms/Attachments/Human Papiloma Virus.png",
@@ -204,8 +208,6 @@
     "EGD/Attachments/Smooth Shank Bolt.png",
     "EGD/Attachments/SKF 16100 Ball Bearing.png",
     "EGD/Attachments/Round Groove Pulley.png",
-    "EGD/Attachments/Pulley Wheel Drawing.png",
-    "EGD/Attachments/Pulley Block.png",
     "Life Sciences/The Human Body/The Immune System/Immune System.canvas",
     "Life Sciences/Mammalian Tissues/Untitled.canvas"
   ]
