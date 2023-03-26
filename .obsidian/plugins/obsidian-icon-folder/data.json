@@ -1,11 +1,17 @@
 {
   "settings": {
     "migrated": true,
-    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "iconPacksPath": ".resources/obsidian-icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FarHandSpock",
+      "LuShield",
+      "LuBuilding",
+      "LuVenetian-mask",
+      "LuGlobe-2"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,5 +20,14 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "Information Technology": "LuLaptop-2",
+  "Life Sciences": "FarHandSpock",
+  "Mathematics": "LuRemove-formatting",
+  "Physical Sciences": "LuApple",
+  "Geography": "LuGlobe-2",
+  "English": "LuVenetian-mask",
+  "EGD": "LuBuilding",
+  "Afrikaans": "LuShield"
+
 }
