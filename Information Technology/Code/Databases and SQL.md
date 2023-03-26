@@ -18,13 +18,18 @@ modified: Thu 03/11 2022 08:00
 - **qry** – query
 - **rpt** – report
 
-## Purpose of a DBMS
-a DBMS is a set of programs to create a database containing collections of related information organised in a useful manner. 
+## Purpose of a DBMS (DataBase Management System)
+a DBMS is a set of programs to create a database containing collections of related data organised in a useful manner. 
 
 A good DBMS should:
 - avoid duplication of data
 - provide consistent data
 - be accessible across a network for multiple users
+
+The DBMS allows a user to insert, edit and delete data. 
+
+To create information from data, the DBMS must allow us to sort, filter, and calculate using the contents of a database. This is known as querying.  
+
 
 ## Database Concepts
 We look at the following parts of a database:
@@ -44,4 +49,3 @@ The simplest entity in a database is a *field*. Fields store a *single* data ite
 ### Primary keys
 The *primary key* of a record is a type of field that *uniquely identifies each record* in the table. 
 
-[[SQL]]
