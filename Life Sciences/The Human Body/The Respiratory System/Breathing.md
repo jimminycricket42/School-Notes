@@ -29,7 +29,7 @@ Exhalation occurs when the pressure in the thoracic decreases.
 The abdominal muscles contract and push up against the diaphragm. The internal intercostal muscles also contract, causing a rapid decrease in pressure and forcing air out of the lungs. 
 
 ## The Control of Breathing by the brain (Homeostatic Control of Breathing)
-The *medulla oblongata* near the base of the brain is where breathing rate is determined. It connects to chemoreceptors that detect the decrease in pH of the blood. The blood’s pH decreases when the cells perform [[Respiration|cellular respiration]] and give off the waste product of CO<sub>2</sub>, which dissolves in water to form *carbonic acid*. The change in pH causes the medulla oblongata to make [[The Structure of the Heart|the heart]] beat beat faster and the lungs to breathe more. 
+The *medulla oblongata* near the base of the brain is where breathing rate is determined. It connects to chemoreceptors that detect the decrease in pH of the blood. The blood’s pH decreases when the cells perform [[Cellular Respiration|cellular respiration]] and give off the waste product of CO<sub>2</sub>, which dissolves in water to form *carbonic acid*. The change in pH causes the medulla oblongata to make [[The Structure of the Heart|the heart]] beat beat faster and the lungs to breathe more. 
 
 Example:
 You have been running, using energy and your muscles.

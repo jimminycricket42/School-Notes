@@ -1,6 +1,6 @@
 ---
 aliases: [ ]
-tags: [GR10/Q2 the-body/nutrition the-body/organs/digestive-system biochemistry/processing-molecules ]
+tags: [GR10/Q2 nutrition the-body/organs/digestive-system]
 created: Fri 04/11 2022
 modified: Thu 03/11 2022 08:00
 ---
@@ -16,11 +16,14 @@ Enzymes also work reversibly, meaning they can do both *anabolic* (building-up) 
 Enzymes have an activation site, like a lock has a keyhole
 Lastly, enzymes can be *reused*, and they do not wear down with each reaction. This is similar to how locks do not break easily. 
 
-### To summarize:
-- Enzymes are specific to their substrate
-- Enzymes work reversibly, doing *anabolic* and *catabolic* reactions. This combination of anabolic and catabolic reactions forms our *metabolism*
-- Enzymes can be reused over and over. 
-- Enzymes have an activation site    
+
+> [!summary] Lock and Key theory Summary
+>  The lock and key theory tell us how enzymes interact with their substrates. 
+>  
+> - Enzymes are specific to their substrate
+> - Enzymes work reversibly, doing *anabolic* and *catabolic* reactions. This combination of anabolic and catabolic reactions forms our *metabolism*
+> - Enzymes can be reused over and over. 
+> - Enzymes have an activation site    
 
 ### Hydrolysis Reactions
 All reactions done by enzymes are hydrolysis reactions, meaning that the anabolic reaction needs water, and the catabolic reaction produces water. 

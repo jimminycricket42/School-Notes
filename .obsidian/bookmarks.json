@@ -1,0 +1,188 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "ctime": 1683463925245,
+      "query": "[!definition]",
+      "title": "Definitions"
+    },
+    {
+      "type": "group",
+      "ctime": 1683883734587,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1684156037116,
+          "path": "Physical Sciences/TODO - Physical Sciences.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1683883707670,
+          "path": "Life Sciences/TODO - Life Sciences.md"
+        }
+      ],
+      "title": "To-do lists"
+    },
+    {
+      "type": "group",
+      "ctime": 1685022127637,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1685536191246,
+          "title": "Life Sciences Graph",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:\"Life Sciences\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": false,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:\"Life Sciences/Biochemistry\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 5243110
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/Ecology\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 12344534
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/Organisms\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8477910
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/The Human Body\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8477910
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/The Cell\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 11230422
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/Nutrition\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 6577366
+                }
+              },
+              {
+                "query": "path:\"Life Sciences/Mammalian Tissues\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8477910
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -0.1,
+            "nodeSizeMultiplier": 1.95026041666667,
+            "lineSizeMultiplier": 1.13359375,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.2588386562181661,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1685023959041,
+          "title": "Physical Sciences Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"Physical Sciences\"",
+            "showTags": true,
+            "showAttachments": true,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:\"Physical Sciences\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 16634160
+                }
+              },
+              {
+                "query": "path:\"Life Sciences\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 8730578
+                }
+              },
+              {
+                "query": "path:Afrikaans",
+                "color": {
+                  "a": 1,
+                  "rgb": 16747013
+                }
+              },
+              {
+                "query": "path:Mathematics",
+                "color": {
+                  "a": 1,
+                  "rgb": 16745961
+                }
+              },
+              {
+                "query": "path:Geography",
+                "color": {
+                  "a": 1,
+                  "rgb": 1349941
+                }
+              },
+              {
+                "query": "path:English",
+                "color": {
+                  "a": 1,
+                  "rgb": 7125738
+                }
+              },
+              {
+                "query": "path:\"Information Technology\"",
+                "color": {
+                  "a": 1,
+                  "rgb": 2747151
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1.478125,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": false,
+            "centerStrength": 0.614583333333333,
+            "repelStrength": 10.4166666666667,
+            "linkStrength": 0.942708333333333,
+            "linkDistance": 165,
+            "scale": 0.3628873693012143,
+            "close": false
+          }
+        }
+      ],
+      "title": "Subject Graphs"
+    }
+  ]
+}

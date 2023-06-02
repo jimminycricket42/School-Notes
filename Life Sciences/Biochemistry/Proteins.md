@@ -1,7 +1,7 @@
 ---
 date: [Wed 21/09 2022]
 aliases: [amino acids ]
-tags: [GR10/Q2 biochemistry/molecules-of-life/organic-compounds the-body/nutrition ]
+tags: [GR10/Q2 biochemistry/molecules-of-life/organic-compounds nutrition ]
 modified: Thu 03/11 2022 08:00
 ---
 # Proteins

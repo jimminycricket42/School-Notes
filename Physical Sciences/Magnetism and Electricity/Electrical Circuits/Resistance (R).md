@@ -39,7 +39,7 @@ The formula for Resistance follows [[Ohm's Law]]
 \end{gather}$$
 
 ## Explanation
-Resistors are bad [[Electrostatics#Conductors|conductors]] – they allow energy to flow through them, but some energy is lost and they resist the flow of the charge. 
+Resistors are bad [[Conductors and Insulators|conductors]] – they allow energy to flow through them, but some energy is lost and they resist the flow of the charge. 
 
 ### Ohm’s Law
 Resistors follow Ohm’s Law, which states:

@@ -23,7 +23,7 @@ Fungi are [[Classification of Cell Structure|eukaryotes]] that are multicellular
 
 We generally look to *Rhizopus* (bread mould) as a general structure of a fungus. 
 
-![[Rhizopus Diagram.png]]![[Rhizopus Diagram.png]]
+![[Rhizopus Diagram.png]]
 
 The *hyphae* weave together to form a body, known as the *mycelium*. Some mycilia would have roots, but *Rhizopus* has no roots, making it a *thallus*. 
 

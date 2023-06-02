@@ -2,37 +2,29 @@
 
 ---
 aliases: [ ]
-tags: [GR10/Q2 chemistry/bonding classification-of-materials ]
+tags: [GR10/Q2 GR11/Q2 chemistry/bonding classification-of-materials ]
 created: Tue 07/03 2023
 modified: Sun 30/10 2022 19:00
 ---
 # Bonding
-When looking  ^blurbat bonding, we look at three types:
-- [[Ionic Bonding]]
-- [[Covalent Bonding]]
-- [[Metallic Bonding]]
+Chemical bonding is the joining of multiple atoms through [[Electrostatics|Electrostatic forces]]. Electrostatic forces work within molecules as [[Intramolecular forces]], and between molecules as [[Intermolecular Forces]]. 
 
-## Intermolecular Forces
-These are forces that work between molecules
+![[Intramolecular forces#^definition]]
 
-## Intramolecular Forces
-these are forces that bind [[Atomic Structure|atoms]] within a molecule
+## Why do Elements Bond?
+Elements bond due to the [[Electrostatics|electrostatic forces]] present between atoms. An [[Atoms|atom]] is made of [[Protons]] and [[Electrons]], which have electrostatic forces acting between them. These forces will *pull the elements together until they are in a stable configuration* with 8 electrons in the outermost shell of the atom. The [[Bond Length]] and [[Bond Energy]] is dependant on how strong the electrostatic forces between the atoms are. 
 
-## Comparison of Different types of bonding
-| Property                    | Ionic                               | Covalent        | Metallic                                 |
-| --------------------------- | ----------------------------------- | --------------- | ---------------------------------------- |
-| Melting Point               | Higher                              | Lower           | High                                     |
-| Electrical Conductivity     | When in liquid Phase                | None            | Conductive                               |
-| Hardness                    | Hard and Brittle                    | Soft            | ductile and malleable                    |
-| How atoms are held together | Crystal lattice (electron transfer) | Orbital Overlap | Metallic lattice (delocalised electrons) |
+> [!note] The Octet Rule
+> An atom other than hydrogen will bond until it is surrounded by 8 valence electrons. 
+> Hydrogen is an exception because it only ever attracts 2 electrons. 
 
-## Structure
-### Orbital Overlap
-[[Covalent Bonding]] leads to orbital overlaps, where the orbital stretches to overlap both positive nuclei, which share the [[Atomic Structure|electrons]] in the orbital. 
-![[Orbital Overlap.jpg]]
-### Crystal Lattice
-[[Ionic Bonding]] leads to crystal lattices, where tightly-bound [[Atomic Structure|electrons]] are held in place by positive cations that have exchanged [[Atomic Structure|electrons]]
-![[Ionic Lattice.jpg]]
-### Metallic Lattice
-[[Metallic Bonding]] leads to metallic lattices, where [[Atomic Structure|electrons]] are removed from their cations, forming *kernels* with a ‘sea’ of *delocalised [[Atomic Structure|electrons]]* surrounding them. 
-![[Metallic Lattice.jpg]]
+![[Repulsive Electrons.png#invert_B]]
+> Electrons repel each other.
+
+![[Attraction between atoms.png#invert_B]]
+> Protons and Electrons attract each other. 
+
+![[Repulsive Protons.png#invert_B]]
+> Protons repel each other
+
+We can represent bonding with [[Lewis diagrams]]. 

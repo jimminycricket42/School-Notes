@@ -1,7 +1,7 @@
 ---
 date: Wed 14/09 2022
 aliases: [ ]
-tags: [GR10/Q3 terminology Ecology/hydrosphere ]
+tags: [GR10/Q3 terminology ]
 modified: Thu 03/11 2022 08:00
 ---
 # The Water Cycle
@@ -37,7 +37,7 @@ Evaporation is water that has been released due to [[Heating of the Atmosphere#^
 
 ### Transpiration
 ![[Transpiration]]
-![[Life Sciences/Plants/Transport Within Plants#Transpiration Pull]]
+![[Transport Within Plants#Transpiration Pull]]
 
 ### Condensation
 Condensation occurs when water-vapor in the atmosphere cools. Most forms of condensation are included as a part of [[#Precipitation]], namely, [[Precipitation|dew]] and [[Precipitation|frost]] .

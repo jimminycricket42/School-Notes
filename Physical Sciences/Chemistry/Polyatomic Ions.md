@@ -4,7 +4,7 @@ modified: Thu 03/11 2022 08:00
 # Polyatomic Ions
 #GR10/Q2 #chemistry/bonding 
 
-Polyatomic [[Ions]] are special [[Ions]] that have unique [[Atomic Structure#Valency of Electrons|valencies]] and chemical formulas. They are treated as non-metals in [[Ionic Bonding]]. 
+Polyatomic [[Electrons]] are special [[Electrons]] that have unique [[Atoms#Valency of Electrons|valencies]] and chemical formulas. They are treated as non-metals in [[Ionic Bonding]]. 
 
 | Name                | Charge of -1                  |
 | ------------------- | ----------------------------- |

@@ -7,7 +7,7 @@ created: Sat 11/02 2023
 Lymphocytes are the cells responsible for the detection and destruction of pathogenic [[Microorganisms]]. They occur in the lymph glands, spleen, and blood.  ^blurb
 
 
-> [!tip]- :star_struck: Extra: Creation of Lymphocytes and Phagocytes
+> [!extra]- Creation of Lymphocytes and Phagocytes
 > Lymphocytes and phagocytes start as undifferentiated stem cells in the [[Bones|red bone marrow]]. From there, B-lymphocytes will grow in the red bone marrow and T-lymphocytes in the Thymus gland. When fully grown, they will move to the [[Lymphatic System]] such as tonsils, lymph nodes, and spleen. 
 
 ## B-Lymphocytes

@@ -1,10 +1,11 @@
+
 ---
-modified: Thu 03/11 2022 08:00
+aliases: [ ]
+tags: [GR10/Q2 biochemistry/molecules-of-life/organic-compounds nutrition ]
+created: Fri 12/05 2023
 ---
 # Lipids
-#GR10/Q2 #biochemistry/molecules-of-life/organic-compounds #the-body/nutrition 
-
-Lipids function as reserve energy for the body, as well as heat insulation. Lipids can be divided into *fats* and *oils*. Fats are defined as being solid at room temperature while oils are defined as being liquid at room temperature. The [[monomers]] of lipids are *fatty acids* and *glycerol*. 
+Lipids function as reserve energy for the body, as well as heat insulation. Lipids can be divided into *fats* and *oils*. Fats are defined as being solid at room temperature while oils are defined as being liquid at room temperature. The [[monomers]] of lipids are *fatty acids* and *glycerol*. ^blurb
 
 ## Differences between fats and oils
 ### Fats

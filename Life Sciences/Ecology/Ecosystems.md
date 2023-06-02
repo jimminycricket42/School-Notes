@@ -209,6 +209,6 @@ Ecosystems are made up of two biotic components
 ![[Autotrophs#^Autotroph-blurb]]
 
 ### The Heterotrophic Component
-[[Heterotrophs]] are organisms that depend on [[Organic and Inorganic Compounds|organic compounds]] from other organisms in order to produce energy. Consumers and Decomposers are [[heterotrophs]]. They rely on [[Autotrophs]]
+[[Heterotrophs]] are organisms that depend on [[Organic and Inorganic Compounds|organic compounds]] from other organisms in order to produce energy. Consumers and Decomposers are [[Heterotrophs]]. They rely on [[Autotrophs]]
 ![[Heterotrophs#^Heterotroph-blurb]]
 

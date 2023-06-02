@@ -44,7 +44,7 @@ When Plants and animals die, their bodies are either decomposed or they are cove
 
 ## Return of Carbon to the Atmosphere
 Carbon returns to the atmosphere through 3 different ways:
-- [[Respiration|cellular respiration]] in living organisms
+- [[Cellular Respiration|cellular respiration]] in living organisms
 - [[Energy Flow|Decomposition]] of deceased organisms
 - Combustion of deceased organism
 

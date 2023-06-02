@@ -7,7 +7,7 @@ modified: Mon 07/11 2022
 # Forces (N)
 Forces can be defined as a push or a pull. A force being applied to an object is a [[Vectors and Scalar|vector]], meaning it has magnitude and direction. ^blurb
 
-**Unit Of measure:** Newtons (N
+**Unit Of measure:** Newtons (N)
 
 ## Types of Forces
 There are two overarching groups of forces:
@@ -17,7 +17,7 @@ There are two overarching groups of forces:
 ### Non-contact Forces
 There are 3 non-contact forces we look at:
 - Gravitational Force
-- [[Electrostatics|Electrostatic Force]]
+- [[Electrostatic interactions|Electrostatic Force]]
 - [[magnetism|Magnetic force]]
 
 #### Gravitational Force
@@ -52,7 +52,7 @@ The normal force is a force that is applied perpendicularly on any object that r
 #### Friction Force
 Friction is the force with opposes the movement of an object. 
 
-Friction has to do with the transfer of Electrons on static objects, and is a part of [[Electrostatics#Triboelectric charging through friction]].
+Friction has to do with the transfer of Electrons on static objects, and is a part of [[Methods of Gaining Charge#Triboelectric charging through friction]].
 
 #### Tension Force
 Tension force is the force applied on an object that is transmitted through string, rope, cable, or wire when it is pulled tight on both ends. 

@@ -41,6 +41,6 @@ Trace fossils are signs of living beings, such as faeces or footprints that were
 
 ## Fossil Dating 
 ### Radiometric Dating 
-Radiometric dating relies on the decay of radioactive [[isotopes]] of elements like carbon, potassium, and uranium. The more the element decays, the older it is. Therefore we can date a fossil by measuring the radioactive decay of the element. 
+Radiometric dating relies on the decay of radioactive [[Neutrons]] of elements like carbon, potassium, and uranium. The more the element decays, the older it is. Therefore we can date a fossil by measuring the radioactive decay of the element. 
 
 ### Relative Dating

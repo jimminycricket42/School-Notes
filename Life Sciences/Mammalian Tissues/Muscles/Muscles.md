@@ -18,9 +18,12 @@ Muscle fibres work according to an all-or-nothing principal, meaning they contra
 ## Functions of Muscles
 Muscles perform various functions within the body, such as *movement* and functions linked to movement, such as the beating of [[The Structure of the Heart|the heart]] and pumping of blood. Additionally, *muscles produce body heat*. 
 
-> [!note]+ :spiral_notepad: Peristalsis
+> [!note]+ Peristalsis
 > 
-> Peristalsis is the movement of things within the body along tracts through the contraction of concentric rings, essentially ‘squeezing’ the substance forwards. Peristalsis is slow, long movements. ^Peristalsis
+> Peristalsis is the movement of things within the body along tracts through the contraction of concentric rings, essentially ‘squeezing’ the substance forwards. Peristalsis is slow, long movements. 
+> 
+>  ![[Peristalsis Diagram.png]]
+^Peristalsis
 
 ## Types Of Muscle 
 - [[Skeletal Muscle]]

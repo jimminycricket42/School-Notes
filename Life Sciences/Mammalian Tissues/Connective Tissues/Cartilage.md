@@ -8,7 +8,7 @@ modified: Thu 03/11 2022 08:00
 Cartilage is an elastic tissue that forms part of [[Structure of the Skeletal System|The Skeleton]].  It makes up many of the softer parts of the body, and surrounds the [[Bones|bones]].  ^blurb
 
 ## General Structure of Cartilage 
-Cartilage is made up of *semi-transparent and tough elastic tissue*. The matrix of all cartilage is made up of a protein called *chondrin*. *Chondroblasts* are found in water-filled-hollows called *Lacunae*, and they *form and repair the cartilage*. Cartilage is surrounded by the *perichondrium*, which protects it from harm through force, or [[Electrostatics|friction]] between [[Bones]].
+Cartilage is made up of *semi-transparent and tough elastic tissue*. The matrix of all cartilage is made up of a protein called *chondrin*. *Chondroblasts* are found in water-filled-hollows called *Lacunae*, and they *form and repair the cartilage*. Cartilage is surrounded by the *perichondrium*, which protects it from harm through force, or [[Methods of Gaining Charge|friction]] between [[Bones]].
 
 > [!note]+ :spiral_notepad: Nutrients Within Cartilage
 > There are no [[blood vessels]] within cartilage — nutrients are transferred by means of [[Diffusion]].
@@ -23,7 +23,7 @@ There are three types of cartilage:
 ## Hyaline Cartilage
 Hyaline Cartilage consists of a jelly-like, but firm substance. It has a clear, almost glassy appearance. *It contains no fibres*, unlike elastic- and fibrous- cartilage
 
-Hyaline cartilage surrounds joints, acting as a form of *protection from [[Electrostatics|friction]]*. 
+Hyaline cartilage surrounds joints, acting as a form of *protection from [[Methods of Gaining Charge|friction]]*. 
 
 ![[Hyaline Cartilage.png|700]]
 

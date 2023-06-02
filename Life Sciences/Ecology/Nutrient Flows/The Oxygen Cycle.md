@@ -5,7 +5,7 @@ tags: [GR10/Q3 Ecology/nutrient-cycles the-body/organs/skeletal-system Ecology/b
 modified: Thu 03/11 2022 08:00
 ---
 # The Oxygen Cycle
-Oxygen is found in [[The Atmosphere]]. Oxygen is a vital component of [[Carbohydrates]], as well as a necessary part of [[Respiration|cellular respiration]]. However, the amount of oxygen on the earth is fixed, and as such is must be cycled repeatedly in order to maintain a balance. 
+Oxygen is found in [[The Atmosphere]]. Oxygen is a vital component of [[Carbohydrates]], as well as a necessary part of [[Cellular Respiration|cellular respiration]]. However, the amount of oxygen on the earth is fixed, and as such is must be cycled repeatedly in order to maintain a balance. 
 
 ## The Cycle of Oxygen in an Environment
 ```mermaid

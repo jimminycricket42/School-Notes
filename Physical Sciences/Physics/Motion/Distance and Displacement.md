@@ -9,4 +9,4 @@ Distance and displacement are both measures of change of how far an object has m
 
 ![[Distance (s)]]
 
-![[Displacement (Δx)]]
+![[Displacement]]

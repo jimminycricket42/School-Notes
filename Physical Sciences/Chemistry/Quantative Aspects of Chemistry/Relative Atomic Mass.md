@@ -12,10 +12,10 @@ $$\begin{align}
 \\ & \textrm{Where: }
 \\ & \textrm{RAM} = && \textrm{Relative Atomic Mass } (\textrm{amu})
 \end{align}$$
-> [[isotopes]]
+> [[Neutrons]]
 
 ## Representing RAM
-![[Representing Atom Structure#Symbolic Notation]]
+![[Symbolic Notation]]
 
 ## Formula Mass
 

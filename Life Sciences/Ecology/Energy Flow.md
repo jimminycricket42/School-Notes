@@ -7,7 +7,14 @@ modified: Thu 03/11 2022 08:00
 # Energy Flow
 Energy flows in all [[ecosystems]] through its organisms. We can understand this flow through *food chains* and *food webs*, or through *tropic levels*. This allows us to understand the connections between organisms, and the relationships that exist in nature. ^blurb
 
-> [!info]- Case Study: Wolves in Yellowstone National Park
+> [!note] The processes of energy flow
+> 1. The sun is the primary energy source for all life. It’s energy radiates towards the earth.
+> 2. [[Autotrophs]] use this radiant energy during [[Photosynthesis]] to create [[Energy|chemical potential energy]] which is stored as [[Organic and Inorganic Compounds|organic compounds]]. 
+> 3. [[Heterotrophs]] eat plants and break down their organic molecules, releasing the stored chemical energy during [[Cellular Respiration]]. 
+> 
+> [[ATP]] is the carrier of energy within the cells. 
+
+> [!extra]- Case Study: Wolves in Yellowstone National Park
 >
 > This infographic talks about the effects that simply reintroducing the previously-killed wolf population of Yellowstone national park has now strengthened the entire ecosystem
 > ![[Trophic Cascade Case Study.png]]

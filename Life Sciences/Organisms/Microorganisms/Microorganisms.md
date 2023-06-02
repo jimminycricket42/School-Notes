@@ -34,3 +34,5 @@ Organisms can be [[Heterotrophs]] or [[Autotrophs]], depending on how they get t
 - Moisture
 - Optimum temperature
 
+
+

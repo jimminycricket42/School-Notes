@@ -5,10 +5,10 @@ created: Mon 07/11 2022
 modified: Mon 07/11 2022
 ---
 # Electrical Circuits
-Electrical circuits consist of travelling [[Atomic Structure|Electrons]] that allow for [[Work done|work to be done]]. These electrons need a force to push them, which we call [[Potential Difference (V)]]. Potential Difference causes [[Charge (Q)]] to move, and the measure of how much charge moves is [[Electrical Current (I)]]. [[Resistance (R)]] prevents charge from moving unless the [[Potential Difference (V)]] is overcome. ^blurb
+Electrical circuits consist of travelling [[Atoms|Electrons]] that allow for [[Work done|work to be done]]. These electrons need a force to push them, which we call [[Potential Difference (V)]]. Potential Difference causes [[Charge (Q)]] to move, and the measure of how much charge moves is [[Electrical Current (I)]]. [[Resistance (R)]] prevents charge from moving unless the [[Potential Difference (V)]] is overcome. ^blurb
 
 ## Closed Circuits
-[[Charge (Q)]] runs from a *positive terminal* to a *negative terminal*, and in order to travel that distance is needs a [[Electrostatics|conductive]] material that connects the two terminals.
+[[Charge (Q)]] runs from a *positive terminal* to a *negative terminal*, and in order to travel that distance is needs a [[Conductors and Insulators|conductive]] material that connects the two terminals.
 
 *Switches* can be used to easily open and close circuits. 
 

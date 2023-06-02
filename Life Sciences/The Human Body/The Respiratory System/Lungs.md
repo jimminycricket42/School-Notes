@@ -5,7 +5,7 @@ tags: [GR10/Q2 the-body/organs/skeletal-system the-body/organs/respiratory-syste
 modified: Mon 31/10 2022 17:00
 ---
 # The Lungs
-Lungs are spongy, reddish organs that are enclosed by the pleura. There are two lungs, the left and the right, and they both differ in structure slightly. The *left lung* has two [[The Bronchi|bronchioli]] lobes, and is slightly longer and thinner. The *right lung* is slightly shorter and wider, and has three [[The Bronchi|bronchioli]] lobes. Below the lungs is the *diaphragm*, which is a muscular plate that separates the [[The Abdominal Cavity]] from the [[The Thoracic Cavity|thoracic cavity]]. The [[The Bronchi|alveolar tubes]] in a group of lung sacks, the [[Alveoli]]. 
+Lungs are spongy, reddish organs that are enclosed by the pleura. There are two lungs, the left and the right, and they both differ in structure slightly. The *left lung* has two [[The Bronchi|bronchioli]] lobes, and is slightly longer and thinner. The *right lung* is slightly shorter and wider, and has three [[The Bronchi|bronchioli]] lobes. Below the lungs is the *diaphragm*, which is a muscular plate that separates the [[The Digestive System|abdominal cavity]] from the [[The Thoracic Cavity|thoracic cavity]]. The [[The Bronchi|alveolar tubes]] in a group of lung sacks, the [[Alveoli]]. 
 
 ![[Lungs Diagram.jpg]]
 

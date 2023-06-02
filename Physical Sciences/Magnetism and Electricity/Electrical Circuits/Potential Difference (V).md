@@ -54,7 +54,7 @@ $$
 [[Electrical Current (I)]]; [[Potential Difference (V)]]; [[Resistance (R)]]
 
 ## Explanation
-You can see potential difference like a pushing force that is trying to move [[Charge (Q)|charges]] throughout a [[Electrical Circuits]]. 
+You can see potential difference like a pushing force that is trying to move [[Charge (Q)|charges]] throughout [[Electrical Circuits]]. The charges work within the [[Electrical Fields]] created by the power source of the circuit, which interacts with a [[Conductors and Insulators|conductor]] to create a path that electrons can move through. 
 
 We use this equation to calculate the amount of energy needed to move one unit of [[Charge (Q)]] through a circuit. 
 
@@ -63,7 +63,7 @@ EMF is only measured *across a cell or a battery*. EMF is the *maximum energy* a
 Potential difference can be measured *anywhere within a closed circuit*, and can be used to see *how much energy a component drains* by measuring *how much energy returns to the cell or battery*. 
 
 > [!tip] :star_struck: Extra: The Chemistry of Batteries, EMF, and Potential Difference
-> Inside of batteries there are two sides, called terminals. Chemical reactions occur inside of the battery that forces positive charges to move to one terminal, and negative charges to the other. This separation is what causes there to be an electric field that forces electrons to move in one direction. 
+> Inside of batteries there are two sides, called terminals. Chemical reactions occur inside of the battery that forces positive charges to move to one terminal, and negative charges to the other. This separation is what causes there to be an [[Electrical Fields|electrical field]] that forces electrons to move in one direction. 
 > 
 > This separation relies on stored chemical potential energy, and when that energy is used, the battery is depleted because the reaction that causes a push of electrons can no longer occur.
 

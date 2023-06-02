@@ -10,10 +10,10 @@
   "templates",
   "note-composer",
   "command-palette",
-  "slash-command",
   "editor-status",
-  "random-note",
+  "bookmarks",
   "outline",
+  "audio-recorder",
   "workspaces",
   "file-recovery"
 ]

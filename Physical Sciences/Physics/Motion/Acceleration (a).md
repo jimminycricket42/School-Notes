@@ -22,4 +22,4 @@ $$\begin{gather}
 
 
 ## Positive and Negative Acceleration
-Positive acceleration is going faster, while negative acceleration is going slower. Positive acceleration moves in the same direction as the [[Displacement (Δx)]] of the object, while negative acceleration moves in the opposite direction. 
+Positive acceleration is going faster, while negative acceleration is going slower. Positive acceleration moves in the same direction as the [[Displacement]] of the object, while negative acceleration moves in the opposite direction. 

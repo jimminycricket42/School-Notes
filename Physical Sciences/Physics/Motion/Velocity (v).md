@@ -19,7 +19,7 @@ $$\begin{gather}
 \\& \Delta x = \textrm{displacement } (m, n\degree)
 \\& \Delta t = \textrm{time } (s)
 \end{gather}$$
-> [[Displacement (Δx)]]
+> [[Displacement]]
 
 ### Instantaneous Velocity
 Instantaneous Velocity is the velocity of an object at one single point. We use instantaneous velocity in calculating [[Acceleration (a)]]. 

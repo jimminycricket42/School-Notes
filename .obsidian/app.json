@@ -1,8 +1,8 @@
 {
   "spellcheck": true,
-  "tabSize": 2,
+  "tabSize": 4,
   "promptDelete": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "legacyEditor": false,
@@ -11,7 +11,8 @@
   "fileSortOrder": "alphabetical",
   "spellcheckLanguages": [
     "en-GB-oxendict",
-    "en-GB"
+    "en-GB",
+    "af"
   ],
   "readableLineLength": true,
   "lineWrap": true,
@@ -26,9 +27,9 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "showLineNumber": false,
   "showInlineTitle": false,
   "spellcheckDictionary": [
@@ -37,5 +38,6 @@
     "acellular"
   ],
   "useTab": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "focusNewTab": false
 }

@@ -38,7 +38,7 @@ The amount of gases in the atmosphere changes as you move further from the earth
 
 #### Permanent Gases in the Troposphere
 - Nitrogen — 78,08% — necessary for the growth of plants
-- Oxygen — 20,94% — necessary for [[Respiration]]
+- Oxygen — 20,94% — necessary for [[Cellular Respiration]]
 - 0,93 — argon — byproduct of radioactive decay
 
 #### Temporary gases in the troposphere

@@ -12,7 +12,7 @@ They can occur as a single layer, known as simple epithelium, or they can occur 
 ## Function:
 - Allows [[Diffusion]]
 - Makes internal surfaces smooth
-- Reduces [[Electrostatics|friction]]
+- Reduces [[Methods of Gaining Charge|friction]]
 
 ## Types of Epithelium:
 - [[Epithelium#Squamous Epithelium]]

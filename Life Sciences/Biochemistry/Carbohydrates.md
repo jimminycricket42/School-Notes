@@ -1,23 +1,22 @@
 ---
-modified: Thu 03/11 2022 08:00
+aliases: [Glucose ]
+tags: [GR10/Q2 biochemistry/molecules-of-life/organic-compounds nutrition ]
+created: Thu 13/04 2023
 ---
 # Carbohydrates
-#GR10/Q2 #biochemistry/molecules-of-life/organic-compounds #the-body/nutrition 
-
-## Function of Carbohydrates
-Carbohydrates are the main source of energy for humans. They are essential for brain function, as the brain requires glucose. 
+Carbohydrates form the basis of energy within organisms. [[Autotrophs]] produce carbohydrates through [[Photosynthesis]], which is then ingested and processed by [[Heterotrophs]].  ^blurb
 
 ## Production of Carbohydrates
 Carbohydrates are produced by [[Autotrophs]] through [[Photosynthesis]]. 
 
-![[Photosynthesis#Formula of Photosynthesis]]
+![[Photosynthesis#Products of Photosynthesis]]
 
 ## Structure of Carbohydrates
 When dealing with carbohydrates, we look at three levels of complexity: Monosaccharides, Disaccharides, and Polysaccharides. These bond together by means of glycosidic bonds
 
-> [!info] Extra:
-> 
+> [!info] Extra: Chemical Structure of a Carbohydrate
 > ![[Carbohydrate Structure.png]]
+> 
 > Structure of a Carbohydrate monomer
 
 ### Monosaccharides

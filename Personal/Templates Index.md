@@ -9,12 +9,9 @@ tags: [personal]
 
 ## General Usage
 [[Definition Template]] – a definition, suited for physics and life sciences, with space for an explanation
-[[Example Template]] – a quick way to make an example line using the shortcut Ctrl + Alt + E (using template hotkeys plugin)
 [[IT Flow Chart]] – a quicker way to start a flowchart using mermaid.js
 
 ## Maths Templates
 [[Formula Template]] – A general template for mathematical formulae
 [[Matrices Template]] – A template for LaTeX matrices using the \begin(Bmatrix) function
 
-## Other 
-[[Blender Node]] – a template for a node description in blender

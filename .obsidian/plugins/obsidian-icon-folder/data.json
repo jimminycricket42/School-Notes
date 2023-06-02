@@ -5,14 +5,42 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LuPaperclip",
+      "FasPaperclip",
+      "LuMagnet",
+      "LuGitCompare",
+      "FasAppleWhole"
+    ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "Attachments",
+        "icon": "LuPaperclip",
+        "for": "everything"
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
-  }
+    },
+    "iconInTabsEnabled": false
+  },
+  "Afrikaans": "FasEarthAfrica",
+  "EGD": "FasCompassDrafting",
+  "English": "LuVenetianMask",
+  "Geography": "LuMountainSnow",
+  "Information Technology": "LuLaptop",
+  "Life Sciences": "LuPersonStanding",
+  "Mathematics": "LuDiff",
+  "Physical Sciences": "FasAppleWhole",
+  "Periodic Table.png": "FasVials",
+  "Unit Conversion.md": "LuTrain",
+  "Physical Sciences/Chemistry": "LuBeaker",
+  "Physical Sciences/Chemistry/Bonding": "LuGitCompare",
+  "Physical Sciences/Physics": "LuCar",
+  "Physical Sciences/Magnetism and Electricity": "LuMagnet",
+  "Life Sciences/Terminology/Attachments": "LuPaperclip"
 }

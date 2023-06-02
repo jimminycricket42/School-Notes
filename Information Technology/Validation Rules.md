@@ -1,7 +1,7 @@
 ---
 date: [Fri 26/08 2022]
 aliases: [data validation,  ]
-tags: [GR10/Q3 code/data-handling code/Logic ]
+tags: [GR10/Q3 code/databases code/Logic ]
 modified: Thu 03/11 2022 08:00
 ---
 # Validation Rules 

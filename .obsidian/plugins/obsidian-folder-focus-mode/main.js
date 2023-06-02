@@ -80,8 +80,13 @@ var FolderFocusModeSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.resetClasses();
       yield this.plugin.saveSettings();
     })));
-    new import_obsidian.Setting(containerEl).setName("Button on explorer").setDesc("Add a button on the top of the file explorer (Need Reloading to work)").addToggle((component) => component.setValue(this.plugin.settings.focusButton).onChange((value) => __async(this, null, function* () {
+    new import_obsidian.Setting(containerEl).setName("Button on explorer").setDesc("Add a button on the top of the file explorer").addToggle((component) => component.setValue(this.plugin.settings.focusButton).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.focusButton = value;
+      this.plugin.initialiseFocusButton(value);
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Show focus option on file context menu").setDesc('Show "Focus on this file" option in file context menu').addToggle((component) => component.setValue(this.plugin.settings.fileContextMenu).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.fileContextMenu = value;
       yield this.plugin.saveSettings();
     })));
     new import_obsidian.Setting(containerEl).setName("Folder Note: External files").setDesc("Focus on the folder linked with the folder note").addToggle((component) => component.setValue(this.plugin.settings.focusNote).onChange((value) => __async(this, null, function* () {
@@ -172,7 +177,8 @@ var DEFAULT_SETTINGS = {
   autofocusForced: false,
   simplifiedView: true,
   focusButton: true,
-  focusNote: false
+  focusNote: false,
+  fileContextMenu: false
 };
 var VisibilityType;
 (function(VisibilityType2) {
@@ -220,22 +226,26 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
       for (const key in fileExplorer.view.fileItems) {
         if (fileExplorer.view.fileItems.hasOwnProperty(key)) {
           const shouldBeVisible = this.shouldBeVisible(newFocusFolder, key);
+          this.substituteSetterForElement(fileExplorer.view.fileItems[key]);
           if (shouldBeVisible) {
             fileExplorer.view.fileItems[key].el.classList.remove("hidden-tree-element");
           } else {
             fileExplorer.view.fileItems[key].el.classList.add("hidden-tree-element");
           }
           if (shouldBeVisible === 1) {
+            this.substituteSetterForElement(fileExplorer.view.fileItems[key], false);
             fileExplorer.view.fileItems[key].el.classList.add("folderfocus-parent");
           } else {
             fileExplorer.view.fileItems[key].el.classList.remove("folderfocus-parent");
           }
           if (shouldBeVisible === 2) {
+            this.substituteSetterForElement(fileExplorer.view.fileItems[key], false);
             fileExplorer.view.fileItems[key].el.classList.add("folderfocus-header");
           } else {
             fileExplorer.view.fileItems[key].el.classList.remove("folderfocus-header");
           }
           if (shouldBeVisible === 3) {
+            this.substituteSetterForElement(fileExplorer.view.fileItems[key], false);
             fileExplorer.view.fileItems[key].el.classList.add("folderfocus-up-element");
             fileExplorer.view.fileItems[key].el.children[0].classList.add("folderfocus-up-element-link");
           } else {
@@ -246,7 +256,7 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
       }
       const existingButton = FolderFocusModePlugin.getFocusButton(fileExplorer);
       if (existingButton) {
-        this.unfocusedButton(existingButton);
+        this.setFocusedIconButton(existingButton);
       }
     });
   }
@@ -266,7 +276,7 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
       (_b = (_a = fileExplorer.view.containerEl.querySelector(".folderfocus-up-element-link")) == null ? void 0 : _a.classList) == null ? void 0 : _b.remove("folderfocus-up-element-link");
       const existingButton = FolderFocusModePlugin.getFocusButton(fileExplorer);
       if (existingButton) {
-        this.focusedButton(existingButton);
+        this.setUnfocusedIconButton(existingButton);
       }
     });
   }
@@ -292,52 +302,89 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
       yield this.saveData(this.settings);
     });
   }
+  initialiseFocusButton(forcedValue) {
+    var _a;
+    const settingCheck = forcedValue ? forcedValue : (_a = this == null ? void 0 : this.settings) == null ? void 0 : _a.focusButton;
+    const explorers = (this == null ? void 0 : this.getFileExplorers()) || [];
+    explorers.forEach((exp) => {
+      if (settingCheck) {
+        this.addFocusFolderButton(exp);
+      } else {
+        this.removeFocusFolderButton(exp);
+      }
+    });
+  }
+  initialiseUpButton() {
+    const explorers = (this == null ? void 0 : this.getFileExplorers()) || [];
+    explorers.forEach((explorer) => {
+      this.registerDomEvent(explorer.view.containerEl, "click", (evt) => {
+        var _a;
+        const elemTarget = evt.target;
+        const realTarget = elemTarget.closest(".folderfocus-up-element-link");
+        if (this.settings.simplifiedView && realTarget) {
+          const upPath = (_a = realTarget.dataset) == null ? void 0 : _a.path;
+          if (upPath) {
+            this.hideTreeElements(upPath);
+            setTimeout(() => {
+              elemTarget.click();
+            }, 300);
+          }
+        }
+      });
+    });
+  }
+  toggleFocusOption(focused, path) {
+    if (focused) {
+      this.showAllTreeElements();
+    } else {
+      this.hideTreeElements(path);
+    }
+  }
+  initialiseFileContextMenu(menu, file) {
+    var _a;
+    if (!(file == null ? void 0 : file.extension)) {
+      const isCurrentlyFocused = this.focusModePath === file.path;
+      menu.addItem((item) => {
+        item.setTitle(isCurrentlyFocused ? "Unfocus" : "Focus on this folder").setIcon("eye").onClick(() => __async(this, null, function* () {
+          return this.toggleFocusOption(isCurrentlyFocused, file.path);
+        }));
+      });
+    } else {
+      const isCurrentlyFocused = this.focusModePath === ((_a = file == null ? void 0 : file.parent) == null ? void 0 : _a.path);
+      if (this.settings.fileContextMenu) {
+        menu.addItem((item) => {
+          item.setTitle(isCurrentlyFocused ? "Unfocus" : "Focus on this file").setIcon("eye").onClick(() => __async(this, null, function* () {
+            var _a2;
+            return this.toggleFocusOption(isCurrentlyFocused, (_a2 = file == null ? void 0 : file.parent) == null ? void 0 : _a2.path);
+          }));
+        });
+      }
+    }
+  }
+  substituteSetterForElement(el, allowCollapse = true) {
+    el.__defineSetter__("collapsed", function(newValue) {
+      document.dispatchEvent(new Event("collapse-changed"));
+      if (!allowCollapse) {
+        this._collapsed = true;
+      } else {
+        this._collapsed = newValue;
+      }
+    });
+    el.__defineGetter__("collapsed", function() {
+      return this._collapsed;
+    });
+  }
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
       this.addSettingTab(new FolderFocusModeSettingTab(this.app, this));
       const explorers = this.getFileExplorers();
       this.focusModeEnabled = false;
-      if (this.settings.focusButton) {
-        const initialiseFocusButton = () => {
-          explorers.forEach((exp) => {
-            this.addFocusFolderButton(exp);
-          });
-        };
-        this.app.workspace.onLayoutReady(initialiseFocusButton);
-        this.registerEvent(this.app.workspace.on("layout-change", initialiseFocusButton));
-      }
-      const initialiseFolderContextMenu = (menu, file) => {
-        if (!(file == null ? void 0 : file.extension)) {
-          const isCurrentlyFocused = this.focusModePath === file.path;
-          menu.addItem((item) => {
-            item.setTitle(isCurrentlyFocused ? "Unfocus" : "Focus on this folder").setIcon("eye").onClick(() => __async(this, null, function* () {
-              if (isCurrentlyFocused) {
-                this.showAllTreeElements();
-              } else {
-                this.hideTreeElements(file.path);
-              }
-            }));
-          });
-        }
-      };
-      this.registerEvent(this.app.workspace.on("file-menu", initialiseFolderContextMenu));
-      explorers.forEach((explorer) => {
-        this.registerDomEvent(explorer.view.containerEl, "click", (evt) => {
-          var _a;
-          const elemTarget = evt.target;
-          const realTarget = elemTarget.closest(".folderfocus-up-element-link");
-          if (this.settings.simplifiedView && realTarget) {
-            const upPath = (_a = realTarget.dataset) == null ? void 0 : _a.path;
-            if (upPath) {
-              this.hideTreeElements(upPath);
-              setTimeout(() => {
-                elemTarget.click();
-              }, 300);
-            }
-          }
-        });
-      });
+      this.app.workspace.onLayoutReady(() => this.initialiseFocusButton());
+      this.registerEvent(this.app.workspace.on("layout-change", this.initialiseFocusButton));
+      this.registerEvent(this.app.workspace.on("file-menu", (menu, file) => this.initialiseFileContextMenu(menu, file)));
+      this.app.workspace.onLayoutReady(() => this.initialiseUpButton());
+      this.registerEvent(this.app.workspace.on("layout-change", this.initialiseUpButton));
       this.registerEvent(this.app.workspace.on("file-open", (file) => {
         if (!this.focusModeEnabled)
           return;
@@ -402,7 +449,7 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
   onunload() {
     const explorers = this.getFileExplorers();
     explorers.forEach((exp) => {
-      FolderFocusModePlugin.removeFocusFolderButton(exp);
+      this.removeFocusFolderButton(exp);
     });
   }
   resetClasses() {
@@ -426,13 +473,13 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
   static getFocusButton(explorer) {
     return explorer.view.containerEl.querySelector(".focus-folder-button");
   }
-  focusedButton(icon) {
+  setUnfocusedIconButton(icon) {
     (0, import_obsidian2.setIcon)(icon, "eye");
     icon.classList.remove("focus-close");
     icon.classList.add("focus-open");
     icon.setAttribute("aria-label", "Focus on this file folder");
   }
-  unfocusedButton(icon) {
+  setFocusedIconButton(icon) {
     (0, import_obsidian2.setIcon)(icon, "eye-off");
     icon.classList.remove("focus-open");
     icon.classList.add("focus-close");
@@ -449,29 +496,29 @@ var FolderFocusModePlugin = class extends import_obsidian2.Plugin {
       return;
     }
     const newIcon = document.createElement("div");
-    (0, import_obsidian2.setIcon)(newIcon, "eye");
-    newIcon.setAttribute("aria-label", "Focus on this file folder");
     newIcon.classList.add("nav-action-button", "focus-folder-button", "focus-open", "clickable-icon");
+    if (this.focusModeEnabled) {
+      this.setFocusedIconButton(newIcon);
+    } else {
+      this.setUnfocusedIconButton(newIcon);
+    }
     this.registerDomEvent(newIcon, "click", () => {
       const currentFile = this.app.workspace.getActiveFile();
       if (currentFile) {
         const isCurrentlyFocused = this.focusModePath === currentFile.path;
-        if (isCurrentlyFocused) {
+        if (isCurrentlyFocused || newIcon.classList.contains("focus-close")) {
           this.showAllTreeElements();
-          this.focusedButton(newIcon);
+          this.setUnfocusedIconButton(newIcon);
         } else if (newIcon.classList.contains("focus-open")) {
           const currentFolderPath = this.getDirRoot(currentFile);
           this.hideTreeElements(currentFolderPath);
-          this.unfocusedButton(newIcon);
-        } else if (newIcon.classList.contains("focus-close")) {
-          this.showAllTreeElements();
-          this.focusedButton(newIcon);
+          this.setFocusedIconButton(newIcon);
         }
       }
     });
     navContainer.appendChild(newIcon);
   }
-  static removeFocusFolderButton(explorer) {
+  removeFocusFolderButton(explorer) {
     const button = FolderFocusModePlugin.getFocusButton(explorer);
     if (button) {
       button.remove();

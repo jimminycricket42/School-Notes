@@ -19,7 +19,7 @@ Potential energy is stored energy within an object, or energy possessed by an ob
 
 Potential energy can be:
 - Chemical Potential Energy – Energy stored in the [[Bonding|bonds]] between atoms and molecules
-- Nuclear Potential Energy – energy stored in the [[Atomic Structure#Nucleus of An atom - Protons and Neutrons|nucleus of an atom]]
+- Nuclear Potential Energy – energy stored in the [[Atoms#Nucleus of An atom - Protons and Neutrons|nucleus of an atom]]
 - [[Gravitational Potential Energy (GPE)]] – energy an object possesses due to its position within a gravitational field
 - Stored Mechanical Energy – energy stored in an object by the application of force that cannot be converted to kinetic energy
 

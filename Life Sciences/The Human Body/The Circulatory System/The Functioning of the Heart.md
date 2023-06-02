@@ -35,7 +35,7 @@ The rate of the heart beat is determined by the brain and by hormonal changes. T
 Additionally, the hormones *adrenaline* and *thyroxin* speed up the heartrate in different circumstances. 
 
 ### Effects of Exercise on the heartbeat
-During exercise, the muscles require more energy and therefore perform [[Respiration|cellular respiration]] more, leading to increase in CO<sub>2</sub> into the blood. This gives a signal to *chemoreceptors*, which in turn tell the brain that it must instruct the heart to beat faster, pumping more blood to the [[Lungs]] for [[Gaseous Exchange]] to occur, removing the CO<sub>2</sub> and replacing it with O<sub>2</sub>. 
+During exercise, the muscles require more energy and therefore perform [[Cellular Respiration|cellular respiration]] more, leading to increase in CO<sub>2</sub> into the blood. This gives a signal to *chemoreceptors*, which in turn tell the brain that it must instruct the heart to beat faster, pumping more blood to the [[Lungs]] for [[Gaseous Exchange]] to occur, removing the CO<sub>2</sub> and replacing it with O<sub>2</sub>. 
 
 > [!note]+ Pulse Rate
 > Pulse rate is the amount of times the arteries pulse, in time with the heartbeat. This can be measured in any artery close to the surface of your skin, such as in the wrist, or the carotid arteries in your neck. 

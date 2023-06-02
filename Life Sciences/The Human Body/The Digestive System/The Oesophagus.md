@@ -1,7 +1,7 @@
 ---
 aliases: [oesophagus, wind pipe]
 date: 13/05/2022
-tags: [GR10/Q2, the-body/organs/digestive-system, the-body/nutrition]
+tags: [GR10/Q2, the-body/organs/digestive-system, nutrition]
 modified: Thu 03/11 2022 08:00
 ---
 # The Oesophagus
@@ -11,3 +11,5 @@ The Oesophagus is a muscular tube that reaches from the pharynx to [[The Stomach
 
 ## Peristalsis
 Peristalsis is performed by the longitudinal  and circular [[Muscles]] found around the oesophagus, This moves the food bolus down towards [[The Stomach]]. 
+
+![[Muscles#^Peristalsis]]

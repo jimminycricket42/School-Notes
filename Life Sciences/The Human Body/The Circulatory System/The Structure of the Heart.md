@@ -7,7 +7,7 @@ modified: Thu 03/11 2022 08:00
 # The Structure of the Heart
 The heart is the centre of our circulatory system. It is found directly below the *sternum*, in a cavity between [[Lungs|the lungs]] known as the *mediastinum*. This allows it to be protected by the ribs and the sternum. It forms a part of the organs in [[The Thoracic Cavity]]. The heart is kept in place by the large blood vessels that enter and leave it, such as: the aorta, the vena-cava, and the pulmonary veins and arteries. 
 
-The heart is a double-pump made up of [[Cardiac Muscle]] that moves [[Blood]] throughout the body, including to the [[Lungs]] and the [[Nutrition in the Human body|digestive system]]. The heart is one of our *vital organs*, and it provides [[The Cell|cells]]
+The heart is a double-pump made up of [[Cardiac Muscle]] that moves [[Blood]] throughout the body, including to the [[Lungs]] and the [[Nutrition in Animals|digestive system]]. The heart is one of our *vital organs*, and it provides [[The Cell|cells]]
 
 ## External Structure of the Heart
 ![[External Structure of the Heart.jpg]]  
@@ -17,7 +17,7 @@ The heart is a double-pump made up of [[Cardiac Muscle]] that moves [[Blood]] th
 
 On the outside of the heart there is [[Cardiac Muscle]] tissue which can contract autonomously. This property is called *automatism*, and makes the heart a unique organ within our bodies. These [[Muscles]] are supplied with [[Blood]] by the *coronary blood vessels*, which drain directly into the right atrium.
 
-The heart is enclosed by a double-walled membrane named the *pericardium*. This membrane has a watery-fluid between its inner and outer layer that *prevents [[Electrostatics#Triboelectric charging through friction|friction]]* between the heart and the surrounding organs whenever the heart contracts. 
+The heart is enclosed by a double-walled membrane named the *pericardium*. This membrane has a watery-fluid between its inner and outer layer that *prevents [[Methods of Gaining Charge|friction]]* between the heart and the surrounding organs whenever the heart contracts. 
 
 ## Interior Structure of the Heart
 ![[Interior Structure of the heart.jpg]]

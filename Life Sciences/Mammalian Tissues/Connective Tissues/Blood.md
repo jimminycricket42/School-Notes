@@ -19,7 +19,7 @@ Blood is a *circulatory tissue* that contains *plasma* with cells suspended in i
 ## Plasma
 The plasma contains cells, water, dissolved substances, colloids, and particles in suspension. The plasma is responsible for transporting these substances around the body. It also helps keep the body's temperature constant. 
 ### Inorganic Substances
-- Water — forms a solvent for [[Ions]] and a transport medium for other particles
+- Water — forms a solvent for [[Electrons]] and a transport medium for other particles
 - Salts — NaCl and others
 - Gases — dissolved Carbon Dioxide and Oxygen
 ### Organic Substances

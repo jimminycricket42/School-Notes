@@ -1,6 +1,6 @@
 ---
 date: [Mon 29/08 2022]
-aliases: [arteries, capillaries, veins ]
+aliases: [arteries, capillaries, veins, blood capillaries]
 tags: [GR10/Q3 the-body/organs/circulatory-system the-body/organs/circulatory-system]
 modified: Thu 03/11 2022 08:00
 ---

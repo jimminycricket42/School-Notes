@@ -2,6 +2,6 @@
   "pinned": [
     "insert-template",
     "workspace:export-pdf",
-    "outline:open"
+    "editing-toolbar:fullscreen-focus"
   ]
 }

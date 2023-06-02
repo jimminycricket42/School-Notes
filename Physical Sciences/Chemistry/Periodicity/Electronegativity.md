@@ -6,7 +6,7 @@ modified: Thu 03/11 2022 08:00
 ---
 # Electronegativity
 
-**Definition:** A measure of the tendency of an [[Atomic Structure|atom]] to attract a bonding pair of [[Atomic Structure|electrons]]. 
+**Definition:** A measure of the tendency of an [[Atoms|atom]] to attract a bonding pair of [[Atoms|electrons]]. 
 
 **Unit of measure:** measured according to the Pauling scale – no units, but a maximum value of 4.0 (which is only found in Fluorine (Fl)). 
 

@@ -7,7 +7,7 @@ modified: Thu 03/11 2022 08:00
 # Gaseous Exchange
 **Definition**: the physical process by which gases move passively by [[Diffusion]] across a surface. 
 
-Humans use gaseous exchange to receive oxygen for [[Respiration|cellular respiration]] and to remove the waste product *carbon dioxide (CO<sub>2</sub>)*. However, this process requires a *specialised surface in the [[Lungs]]*. 
+Humans use gaseous exchange to receive oxygen for [[Cellular Respiration|cellular respiration]] and to remove the waste product *carbon dioxide (CO<sub>2</sub>)*. However, this process requires a *specialised surface in the [[Lungs]]*. 
 
 And effective surface for gaseous exchange consists of the following characteristics:
 - *Large surface* to absorb enough oxygen.

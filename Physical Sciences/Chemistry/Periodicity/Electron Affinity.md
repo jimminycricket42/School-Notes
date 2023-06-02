@@ -5,7 +5,7 @@ created: Thu 03/11 2022
 modified: Thu 03/11 2022
 ---
 # Electron Affinity
-**Definition**: The amount of energy released when an electron is added to a neutral [[Atomic Structure|atom]] to form an [[Ions|anion]] ^definition
+**Definition**: The amount of energy released when an electron is added to a neutral [[Atoms|atom]] to form an [[Electrons|anion]] ^definition
 
 **Unit of Measure**: Kilojoules per mol (kJ/mole)
 

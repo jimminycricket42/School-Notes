@@ -1,5 +1,5 @@
 ---
-aliases: [organic compounds, inorganic compounds ]
+aliases: [organic compounds, inorganic compounds, vitamins, minerals ]
 tags: [GR10/Q2 biochemistry/molecules-of-life ]
 created: Tue 15/11 2022
 modified: Tue 15/11 2022 15:37
@@ -18,7 +18,7 @@ Common examples are:
 - [[Lipids]]
 
 ## Inorganic Compounds
-Inorganic compounds don't have their origin in living organisms. 
+Inorganic compounds don't have their origin in living organisms. They are also referred to as vitamins and minerals. 
 
 We can classify them as *not containing* Hydrogen (H), Oxygen (O), and Carbon (C) (*does not* contain all three). 
 

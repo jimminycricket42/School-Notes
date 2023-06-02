@@ -13,14 +13,11 @@ We look at three different types of plastids:
 ## Chloroplasts
 Chloroplasts are oval-shaped structures with a double membrane and lamellae found found in the stroma. Thickenings of this membrane known as thylakoids layer together to form granum, which are interconnected by intergrana. Thylakoids contain enzymes and various pigments, such as chlorophyll, which is responsible for *photosynthesis*. 
 
-![[Plastids .excalidraw]]
+![[Chloroplast.jpg]]
 
-### Photosynthesis
-Photosynthesis takes place in the chloroplasts. It converts radiant energy into chemical potential energy. This energy is bound with [[Carbohydrates|glucose]] using Carbon Dioxide, with oxygen as a byproduct. 
-
-$$
-6CO_2 + 6H_2O + \textrm{Radiant Energy} = C_6H_12O_6 + 6O_2
-$$
+#### Functions of the Components of a chloroplast
+- Granum and Thylakoid – Absorb sunlight and convert to ATP during the [[#Light Phase]].
+- Stroma – Carbon dioxide and Hydrogen combine using energy from ATP to create Carbohydrates in the stroma during the [[#Dark Phase/Calvin Cycle]] 
 
 ## Chromoplasts
 Chromoplasts have the same structure of Chloroplasts, but they are missing the Chlorophyll that allows chloroplasts to photosynthesise. Chromoplasts give flowers colours other than green, as they are essentially chloroplasts that have lost their pigmentation. 

@@ -1,12 +1,14 @@
 {
-  "accentColor": "#6bc6ff",
-  "cssTheme": "Material Flat",
-  "textFontFamily": "Roboto",
-  "interfaceFontFamily": "Helvetica",
-  "baseFontSize": 16,
+  "accentColor": "#416c46",
+  "cssTheme": "Abyssal",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSize": 20,
   "theme": "system",
   "enabledCssSnippets": [
-    "Callouts"
+    "Callouts",
+    "Adaptive Images"
   ],
-  "translucency": true
+  "translucency": false,
+  "baseFontSizeAction": false
 }

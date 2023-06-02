@@ -52,7 +52,7 @@ Visible light is actually a very small part of the EM spectrum. It ranges from a
 Ultra violet radiation is what causes sunburn. It is invisible and full of [[Energy]]. It can Ionise some particles due to the amount of [[Energy]] it has. 
 
 ### X-rays
-X-rays are released when particles are hit by high-speed [[Atomic Structure|electrons]]. They can penetrate the soft tissues of the human body, and even be used to kill some forms of cancer. 
+X-rays are released when particles are hit by high-speed [[Atoms|electrons]]. They can penetrate the soft tissues of the human body, and even be used to kill some forms of cancer. 
 
 ### Gamma Rays
 Gamma rays are more penetrating than x-rays, and they come from the transformations that occur within the nuclei of radioactive materials. 

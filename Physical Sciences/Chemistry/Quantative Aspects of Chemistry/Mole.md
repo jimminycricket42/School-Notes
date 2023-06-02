@@ -6,7 +6,9 @@ modified: Thu 03/11 2022 08:00
 ---
 # Mole
 
-**Definition**: The mole is the amount of substance that contains the same number of elementary units (atoms, molecules, or particles) as the numbers of atoms in exactly 12g of carbon-12
+> [!definition]
+> 
+> **Mole**: The mole is the amount of substance that contains the same number of elementary units (atoms, molecules, or particles) as the numbers of atoms in exactly 12g of carbon-12
 
 ## Avogadro’s Number
 [[Avogadro's Number]] defines the amount of particles in one mole. One mole contains 6,02 * 10²³ particles. One mole of a substance has a mass equal to it’s relative formula mass in grams. 

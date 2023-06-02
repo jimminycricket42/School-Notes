@@ -10,9 +10,9 @@ modified: Thu 03/11 2022 07:00
 **Unit of Measure**: Kilojoules per Mole (kj.mol<sup>-1</sup>)
 
 ## First and second ionisation energy
-First ionisation energy is the amount of energy needed to remove the outermost electron from its [[Atomic Structure|atom]]
+First ionisation energy is the amount of energy needed to remove the outermost electron from its [[Atoms|atom]]
 
-Second Ionisation Energy is the amount of energy needed to remove an additional electron from a [[Ions|cation]]. This second ionisation energy is higher than the first ionisation energy because more energy is required to remove an electron from a cation than from a neutral [[Electrostatics#Electrical Charge|neutral atom]]. 
+Second Ionisation Energy is the amount of energy needed to remove an additional electron from a [[Electrons|cation]]. This second ionisation energy is higher than the first ionisation energy because more energy is required to remove an electron from a cation than from a neutral [[Electrons|ion]]. 
 
 ## Trend in the Periodic Table
 - Ionisation energy increases from left to right across a period due to the decrease in [[Atomic Radius]] causing the attraction between electrons and the nucleus being greater, meaning more energy is required to separate them. 

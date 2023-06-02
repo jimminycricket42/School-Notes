@@ -1,0 +1,112 @@
+{
+  "callouts": {
+    "custom": [
+      "definition",
+      "syntax",
+      "law",
+      "note",
+      "extra"
+    ],
+    "settings": {
+      "extra": [
+        {
+          "changes": {
+            "icon": "lucide-cookie"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "158, 0, 179"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "207, 0, 235"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-bookmark"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "224, 79, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 142, 36"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "icon": "lucide-crosshair",
+            "color": "109, 212, 53"
+          }
+        }
+      ],
+      "syntax": [
+        {
+          "changes": {
+            "icon": "lucide-chevrons-left-right",
+            "color": "235, 82, 0"
+          }
+        }
+      ],
+      "law": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "35, 58, 231"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "138, 167, 255"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {
+            "icon": "lucide-newspaper",
+            "color": "64, 161, 206"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": false
+  }
+}

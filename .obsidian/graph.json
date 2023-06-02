@@ -1,22 +1,72 @@
 {
   "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "search": "path:\"Life Sciences\"",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Life Sciences/Biochemistry\"",
+      "color": {
+        "a": 1,
+        "rgb": 5243110
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/Ecology\"",
+      "color": {
+        "a": 1,
+        "rgb": 12344534
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/Organisms\"",
+      "color": {
+        "a": 1,
+        "rgb": 8477910
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/The Human Body\"",
+      "color": {
+        "a": 1,
+        "rgb": 8477910
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/The Cell\"",
+      "color": {
+        "a": 1,
+        "rgb": 11230422
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/Nutrition\"",
+      "color": {
+        "a": 1,
+        "rgb": 6577366
+      }
+    },
+    {
+      "query": "path:\"Life Sciences/Mammalian Tissues\"",
+      "color": {
+        "a": 1,
+        "rgb": 8477910
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.95026041666667,
+  "lineSizeMultiplier": 1.13359375,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.36288736930121723,
   "close": false
 }
