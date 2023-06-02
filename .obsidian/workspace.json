@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "5a193c6156722c15",
@@ -316,6 +315,7 @@
   },
   "active": "fb6aa28ad6230b5d",
   "lastOpenFiles": [
+    "School-Notes-2",
     "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Ginkgo Biloba.png",
     "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Gnetales.png",
     "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Cycad.png",
@@ -360,7 +360,6 @@
     "Physical Sciences/Chemistry/Bonding/Attachments/Recording 20230526181101.webm",
     "Physical Sciences/Chemistry/Bonding/Attachments/Recording 20230526183226.webm",
     "Physical Sciences/Chemistry/Attachments/Polymers.jpg",
-    "Life Sciences/Mammalian Tissues/Muscles/Attachments/Peristalsis Diagram.png",
     "Life Sciences/Mammalian Tissues/Muscles/Attachments",
     "Life Sciences/Nutrition/Attachments"
   ]
