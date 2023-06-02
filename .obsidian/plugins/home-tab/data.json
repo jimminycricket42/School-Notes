@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "logoType": "lucideIcon",
   "logo": {
     "lucideIcon": "folder-open",
@@ -16,12 +17,32 @@
   "showStarredFiles": true,
   "showRecentFiles": true,
   "maxRecentFiles": 12,
+=======
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+>>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
   "storeRecentFile": true,
   "showPath": true,
   "selectionHighlight": "default",
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": true,
+<<<<<<< HEAD
   "recentFilesStore": [
     {
       "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
@@ -78,4 +99,7 @@
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false
+=======
+  "recentFilesStore": []
+>>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
 }

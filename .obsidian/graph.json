@@ -5,6 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
+<<<<<<< HEAD
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -54,6 +55,50 @@
       "color": {
         "a": 1,
         "rgb": 8477910
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Physical Sciences\"",
+      "color": {
+        "a": 1,
+        "rgb": 16114990
+      }
+    },
+    {
+      "query": "path:\"Life Sciences\"",
+      "color": {
+        "a": 1,
+        "rgb": 9705943
+      }
+    },
+    {
+      "query": "path:Geography",
+      "color": {
+        "a": 1,
+        "rgb": 5622279
+      }
+    },
+    {
+      "query": "path:\"Information Technology\"",
+      "color": {
+        "a": 1,
+        "rgb": 2752486
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 2724095
+      }
+    },
+    {
+      "query": "path:Afrikaans",
+      "color": {
+        "a": 1,
+        "rgb": 15901208
+>>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
       }
     }
   ],
