@@ -22,20 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-      "timestamp": 1685711012410
-    },
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Bryophytes.md",
-      "timestamp": 1685711009454
-    },
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Classification of Plants.md",
-      "timestamp": 1685711005544
-    }
-  ],
+  "recentFilesStore": [],
   "starredFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
