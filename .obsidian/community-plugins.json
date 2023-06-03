@@ -1,30 +1,24 @@
 [
   "table-editor-obsidian",
   "better-word-count",
-  "obsidian-desmos",
   "callout-manager",
   "obsidian-editor-shortcuts",
   "obsidian-contextual-typography",
+  "obsidian-desmos",
   "obsidian-doubleshift",
   "editing-toolbar",
   "emoji-shortcodes",
+  "obsidian-latex",
   "obsidian-folder-focus-mode",
   "obsidian-frontmatter-tag-suggest",
   "obsidian-fullscreen-plugin",
   "obsidian-heading-shifter",
   "home-tab",
   "obsidian-icon-folder",
-<<<<<<< HEAD
-=======
-  "obsidian-multi-cursor",
-  "no-dupe-leaves",
->>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
+  "mathlive",
   "obsidian-smart-typography",
   "obsidian-style-settings",
   "tag-wrangler",
   "cm-typewriter-scroll-obsidian",
-  "update-time-on-edit",
-  "obsidian-latex",
-  "mathlive",
-  "obsidian-git"
+  "update-time-on-edit"
 ]

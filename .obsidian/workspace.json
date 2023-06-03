@@ -1,130 +1,26 @@
-<<<<<<< HEAD
 {
   "main": {
     "id": "3a4a9fd06022c3cb",
     "type": "split",
     "children": [
       {
-        "id": "94c377899a5c8ccc",
+        "id": "efee6745fa762842",
         "type": "tabs",
-        "dimension": 60.396039603960396,
         "children": [
           {
-            "id": "117736bf8f774d3f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "a2989d527054b599",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/TODO - Life Sciences.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "da546e82dbaf914c",
+            "id": "326b09abbc24a8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6256f2942e6fc3f3",
-        "type": "tabs",
-        "dimension": 39.603960396039604,
-        "children": [
-          {
-            "id": "4b23331d3d1b24fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/Organisms/Plants/Classification of Plants/Classification of Plants.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b0d41b6ba7590874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/Organisms/Plants/Classification of Plants/Pteridophytes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4bbf8e65c0e82d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/Organisms/Plants/Classification of Plants/Bryophytes.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3668985e0d928ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/Organisms/Plants/Classification of Plants/Angiosperms.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb6aa28ad6230b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,18 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
-              }
-            }
-          },
-          {
-            "id": "70f7cc920c24f8ff",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -164,25 +49,25 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gymnosperm",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "f98b81075433a057",
+            "id": "18501c51c84a834d",
             "type": "leaf",
             "state": {
-              "type": "chronology-calendar-view",
+              "type": "starred",
               "state": {}
             }
           },
           {
-            "id": "043ab40d867f816f",
+            "id": "11de4e163274f378",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -193,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 326
   },
   "right": {
     "id": "5a193c6156722c15",
     "type": "split",
     "children": [
       {
-        "id": "7391dc3500510c60",
+        "id": "a0ff2c53acea43a1",
         "type": "tabs",
         "children": [
           {
-            "id": "c62828a4a58797b0",
+            "id": "e900cc14fdc4ad73",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -214,15 +99,37 @@
             }
           },
           {
-            "id": "f8bea691b3e39e1c",
+            "id": "00b409727198e697",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2deffd887983fd3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ba61a9f0e05bf95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
@@ -234,136 +141,95 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "canvas:Create new canvas": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
-    "id": "28144e85c8bc94cf",
+    "id": "8aac9d0c0dd5a3ea",
     "type": "floating",
     "children": [
       {
-        "id": "39c2ef51ce17eb65",
+        "id": "0cf1037873168faa",
         "type": "window",
         "children": [
           {
-            "id": "e80660962cc01212",
+            "id": "8cf483f7a546c01a",
             "type": "tabs",
             "children": [
               {
-                "id": "e9a77f754b129842",
+                "id": "9646ff68dcee4529",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Life Sciences/Nutrition/Nutrition.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "696cff68b87e9e60",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Life Sciences/Nutrition/Nutrition in Animals.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a459da3dcccf7db1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Life Sciences/The Human Body/The Digestive System/The Mouth.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ],
-            "stacked": true
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1078,
-        "y": 0,
-        "width": 831,
-        "height": 1032,
+        "x": 4,
+        "y": 4,
+        "width": 1054,
+        "height": 1024,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "0280a20390447615",
+        "type": "window",
+        "children": [
+          {
+            "id": "142747a026d5d512",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ed799f066759f014",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 946,
+        "y": 270,
+        "width": 600,
+        "height": 692,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fb6aa28ad6230b5d",
+  "active": "326b09abbc24a8f6",
   "lastOpenFiles": [
-    "School-Notes-2",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Ginkgo Biloba.png",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Gnetales.png",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Cycad.png",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Attachments/Conifers.png",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Attachments",
     "Life Sciences/Organisms/Plants/Classification of Plants/Bryophytes.md",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Pteridophytes.md",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-    "Life Sciences/Organisms/Plants/Classification of Plants/Angiosperms.md",
     "Life Sciences/Organisms/Plants/Classification of Plants/Classification of Plants.md",
-    "Life Sciences/TODO - Life Sciences.md",
-    "Life Sciences/Organisms/Plants/Dicotyledonous plants.md",
-    "Life Sciences/The Human Body/The Immune System/Immune System.canvas",
-    "Life Sciences/Organisms/Plants/Classification of Plants",
-    "Life Sciences/The Human Body/The Immune System/Antibodies.md",
-    "Life Sciences/The Human Body/The Immune System/Lymphocytes.md",
-    "Life Sciences/The Human Body/The Immune System/Phagocytes.md",
-    "Life Sciences/The Human Body/The Immune System/Types of Immunity.md",
-    "Life Sciences/Organisms/Microorganisms/Viruses.md",
-    "Life Sciences/Organisms/Microorganisms/Protista.md",
-    "Life Sciences/Organisms/Microorganisms/Microorganisms.md",
-    "Life Sciences/Organisms/Microorganisms/Bacteria.md",
-    "Life Sciences/Organisms/Microorganisms/Binary Fission.md",
-    "Life Sciences/Organisms/Microorganisms/Fungi.md",
-    "Life Sciences/Organisms/Microorganisms/Microorganisms 1.md",
-    "pathogens.md",
-    "Life Sciences/The Cell/Transport in Cells.md",
-    "Life Sciences/Terminology/Attachments",
-    "Life Sciences/The Human Body/The Digestive System/The Small Intestine.md",
-    "Life Sciences/The Human Body/The Digestive System/Attachments/Cross Section of the Small Intestine.png",
-    "Life Sciences/The Human Body/The Digestive System/Attachments",
-    "Life Sciences/The Human Body/The Digestive System/The Mouth.md",
-    "Life Sciences/Nutrition/Processes of Nutrition/Absorption.md",
-    "Life Sciences/Homeostasis.md",
-    "Life Sciences/Nutrition/Nutrition.md",
-    "Life Sciences/Nutrition/Attachments/Villus Structure.png",
-    "Life Sciences/Nutrition/Attachments/Recording 20230601131313.webm",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Bonding Diagrams 1.svg",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Bonding Diagrams 2.svg",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Ion-induced Intermolecular Force.svg",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Recording 20230526181616.webm",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Recording 20230526181101.webm",
-    "Physical Sciences/Chemistry/Bonding/Attachments/Recording 20230526183226.webm",
-    "Physical Sciences/Chemistry/Attachments/Polymers.jpg",
-    "Life Sciences/Mammalian Tissues/Muscles/Attachments",
-    "Life Sciences/Nutrition/Attachments"
+    "Personal/Style Tester.md",
+    "Physical Sciences/Physics/Waves/Transverse Waves.md",
+    "Physical Sciences/Physics/Waves/Types of Waves.md",
+    "Physical Sciences/Physics/Waves/Wavelength (λ).md",
+    "Physical Sciences/Physics/Waves/Waves in phase.md",
+    "Personal/Templates/Definition Template.md",
+    "To Do.md",
+    "Physical Sciences/Physics/Waves/The Electromagnetic Spectrum.md",
+    "Mathematics/Factorisation.md",
+    "English/Language/Essay Writing.md"
   ]
 }
-=======
->>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346

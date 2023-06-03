@@ -1,23 +1,4 @@
 {
-<<<<<<< HEAD
-  "logoType": "lucideIcon",
-  "logo": {
-    "lucideIcon": "folder-open",
-    "imagePath": "",
-    "imageLink": ""
-  },
-  "logoScale": 1.4,
-  "iconColorType": "accentColor",
-  "wordmark": "Obsidian",
-  "customFont": "monospaceFont",
-  "fontSize": "4em",
-  "fontColorType": "accentColor",
-  "fontWeight": 600,
-  "maxResults": 5,
-  "showStarredFiles": true,
-  "showRecentFiles": true,
-  "maxRecentFiles": 12,
-=======
   "logoType": "default",
   "logo": {
     "lucideIcon": "",
@@ -32,65 +13,27 @@
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
-  "showStarredFiles": true,
+  "showStarredFiles": false,
   "showRecentFiles": false,
   "maxRecentFiles": 5,
->>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
   "storeRecentFile": true,
   "showPath": true,
   "selectionHighlight": "default",
   "showShortcuts": true,
   "markdownOnly": false,
-  "unresolvedLinks": true,
-<<<<<<< HEAD
+  "unresolvedLinks": false,
   "recentFilesStore": [
     {
       "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Gymnosperms.md",
-      "timestamp": 1685694792296
+      "timestamp": 1685711012410
     },
     {
       "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Bryophytes.md",
-      "timestamp": 1685694790419
-    },
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Pteridophytes.md",
-      "timestamp": 1685694788584
-    },
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Angiosperms.md",
-      "timestamp": 1685694770294
+      "timestamp": 1685711009454
     },
     {
       "filepath": "Life Sciences/Organisms/Plants/Classification of Plants/Classification of Plants.md",
-      "timestamp": 1685694648961
-    },
-    {
-      "filepath": "Life Sciences/TODO - Life Sciences.md",
-      "timestamp": 1685694572776
-    },
-    {
-      "filepath": "Life Sciences/Organisms/Plants/Dicotyledonous plants.md",
-      "timestamp": 1685694458874
-    },
-    {
-      "filepath": "Life Sciences/The Human Body/The Immune System/Immune System.canvas",
-      "timestamp": 1685694362745
-    },
-    {
-      "filepath": "Life Sciences/The Human Body/The Immune System/Antibodies.md",
-      "timestamp": 1685694332392
-    },
-    {
-      "filepath": "Life Sciences/The Human Body/The Immune System/Lymphocytes.md",
-      "timestamp": 1685694252012
-    },
-    {
-      "filepath": "Life Sciences/The Human Body/The Immune System/Phagocytes.md",
-      "timestamp": 1685694250190
-    },
-    {
-      "filepath": "Life Sciences/The Human Body/The Immune System/Types of Immunity.md",
-      "timestamp": 1685694249458
+      "timestamp": 1685711005544
     }
   ],
   "starredFileStore": [],
@@ -99,7 +42,4 @@
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false
-=======
-  "recentFilesStore": []
->>>>>>> 2c3f515b5252913eb4f4b02890fb6e66bd7ff346
 }
